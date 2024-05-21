@@ -5,7 +5,7 @@
 "blob":
 "07ca34d0-126d-474f-a37f-94836d9f89d6",
 "created":
-"2023-07-21T16:24:01.744236+00:00",
+"2023-07-21T16:24:01.744236Z",
 "metadata":
 {
 "@context":
@@ -221,7 +221,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.298775+00:00",
+"2023-07-28T17:27:03.298775Z",
 "path":
 "sub-10/sub-10_ses-Mouse-10-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -233,7 +233,7 @@
 "blob":
 "d357cb0f-d28d-4e11-8a4d-d3a0c46e977b",
 "created":
-"2023-07-21T16:24:13.280640+00:00",
+"2023-07-21T16:24:13.280640Z",
 "metadata":
 {
 "@context":
@@ -489,7 +489,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.313106+00:00",
+"2023-07-28T17:27:03.313106Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-21-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -501,7 +501,7 @@
 "blob":
 "e5c01845-cab2-4cec-bae2-c3da8f2a6b31",
 "created":
-"2023-07-21T16:24:23.301231+00:00",
+"2023-07-21T16:24:23.301231Z",
 "metadata":
 {
 "@context":
@@ -757,7 +757,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.391835+00:00",
+"2023-07-28T17:27:03.391835Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-22-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -769,7 +769,7 @@
 "blob":
 "43824226-76d4-4315-bad2-c88c674d6b6c",
 "created":
-"2023-07-21T16:24:15.954792+00:00",
+"2023-07-21T16:24:15.954792Z",
 "metadata":
 {
 "@context":
@@ -1025,7 +1025,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.320005+00:00",
+"2023-07-28T17:27:03.320005Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-23-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -1037,7 +1037,7 @@
 "blob":
 "8c00a157-20ec-4f3a-b64a-f877ec951e20",
 "created":
-"2023-07-21T16:24:23.232763+00:00",
+"2023-07-21T16:24:23.232763Z",
 "metadata":
 {
 "@context":
@@ -1293,7 +1293,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.366432+00:00",
+"2023-07-28T17:27:03.366432Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-24-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -1305,7 +1305,7 @@
 "blob":
 "39fc5cbc-cd7a-4ae1-a1e9-dfe660a89474",
 "created":
-"2023-07-21T16:25:04.270304+00:00",
+"2023-07-21T16:25:04.270304Z",
 "metadata":
 {
 "@context":
@@ -1561,7 +1561,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.417011+00:00",
+"2023-07-28T17:27:03.417011Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-25-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -1573,7 +1573,7 @@
 "blob":
 "62caec41-89f5-4197-84bb-759932031380",
 "created":
-"2023-07-21T16:25:43.687722+00:00",
+"2023-07-21T16:25:43.687722Z",
 "metadata":
 {
 "@context":
@@ -1829,7 +1829,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.429541+00:00",
+"2023-07-28T17:27:03.429541Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-26-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -1841,7 +1841,7 @@
 "blob":
 "406040f5-2bcb-40ed-97ef-3297d1dc6ca2",
 "created":
-"2023-07-21T16:25:32.691241+00:00",
+"2023-07-21T16:25:32.691241Z",
 "metadata":
 {
 "@context":
@@ -2097,7 +2097,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.398226+00:00",
+"2023-07-28T17:27:03.398226Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-28-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -2109,7 +2109,7 @@
 "blob":
 "affde1bb-5be5-408f-895f-184734e65088",
 "created":
-"2023-07-21T16:25:36.868858+00:00",
+"2023-07-21T16:25:36.868858Z",
 "metadata":
 {
 "@context":
@@ -2365,7 +2365,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.326632+00:00",
+"2023-07-28T17:27:03.326632Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-29-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -2377,7 +2377,7 @@
 "blob":
 "6c550193-03c7-456e-830d-deaa224956c3",
 "created":
-"2023-07-21T16:25:39.715064+00:00",
+"2023-07-21T16:25:39.715064Z",
 "metadata":
 {
 "@context":
@@ -2633,7 +2633,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.423343+00:00",
+"2023-07-28T17:27:03.423343Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-09-30-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -2645,7 +2645,7 @@
 "blob":
 "ca8290b5-bc87-484a-98f0-f446f2be3365",
 "created":
-"2023-07-21T16:25:50.431169+00:00",
+"2023-07-21T16:25:50.431169Z",
 "metadata":
 {
 "@context":
@@ -2901,7 +2901,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.334054+00:00",
+"2023-07-28T17:27:03.334054Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-01-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -2913,7 +2913,7 @@
 "blob":
 "d3c2ef17-14a1-46c7-81e3-8c410fdd288d",
 "created":
-"2023-07-21T16:26:36.816185+00:00",
+"2023-07-21T16:26:36.816185Z",
 "metadata":
 {
 "@context":
@@ -3169,7 +3169,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.340742+00:00",
+"2023-07-28T17:27:03.340742Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-02-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -3181,7 +3181,7 @@
 "blob":
 "eac81db9-bf47-468c-9025-219dfff36839",
 "created":
-"2023-07-21T16:27:01.493793+00:00",
+"2023-07-21T16:27:01.493793Z",
 "metadata":
 {
 "@context":
@@ -3437,7 +3437,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.404341+00:00",
+"2023-07-28T17:27:03.404341Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-03-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -3449,7 +3449,7 @@
 "blob":
 "65179bd8-3349-4467-82be-2815326b55b2",
 "created":
-"2023-07-21T16:27:12.111402+00:00",
+"2023-07-21T16:27:12.111402Z",
 "metadata":
 {
 "@context":
@@ -3705,7 +3705,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.410783+00:00",
+"2023-07-28T17:27:03.410783Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-04-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -3717,7 +3717,7 @@
 "blob":
 "d90158d2-3939-4fcb-afd9-5daa96c6fa55",
 "created":
-"2023-07-21T16:27:12.116120+00:00",
+"2023-07-21T16:27:12.116120Z",
 "metadata":
 {
 "@context":
@@ -3973,7 +3973,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.372923+00:00",
+"2023-07-28T17:27:03.372923Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-05-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -3985,7 +3985,7 @@
 "blob":
 "f6f2f362-e740-4588-a4fe-0c24b67444f6",
 "created":
-"2023-07-21T16:27:20.517067+00:00",
+"2023-07-21T16:27:20.517067Z",
 "metadata":
 {
 "@context":
@@ -4241,7 +4241,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.385642+00:00",
+"2023-07-28T17:27:03.385642Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-06-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -4253,7 +4253,7 @@
 "blob":
 "25c9bc46-7751-44ac-a6be-a466c92f3962",
 "created":
-"2023-07-21T16:28:09.709284+00:00",
+"2023-07-21T16:28:09.709284Z",
 "metadata":
 {
 "@context":
@@ -4509,7 +4509,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.347297+00:00",
+"2023-07-28T17:27:03.347297Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-07-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -4521,7 +4521,7 @@
 "blob":
 "6c2909ba-b15e-4c9d-ab5d-30155c56ed78",
 "created":
-"2023-07-21T16:28:06.547708+00:00",
+"2023-07-21T16:28:06.547708Z",
 "metadata":
 {
 "@context":
@@ -4777,7 +4777,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.436725+00:00",
+"2023-07-28T17:27:03.436725Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-08-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -4789,7 +4789,7 @@
 "blob":
 "6dc02b6c-acef-4a39-b362-89a4843a1a4e",
 "created":
-"2023-07-21T16:28:17.557456+00:00",
+"2023-07-21T16:28:17.557456Z",
 "metadata":
 {
 "@context":
@@ -5045,7 +5045,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.353642+00:00",
+"2023-07-28T17:27:03.353642Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-09-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -5057,7 +5057,7 @@
 "blob":
 "196492eb-95a8-412a-b96f-76d8170258b2",
 "created":
-"2023-07-21T16:28:21.104258+00:00",
+"2023-07-21T16:28:21.104258Z",
 "metadata":
 {
 "@context":
@@ -5313,7 +5313,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.360330+00:00",
+"2023-07-28T17:27:03.360330Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-10-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -5325,7 +5325,7 @@
 "blob":
 "a48837b7-7f6c-4645-856b-b0b8aebbc1dc",
 "created":
-"2023-07-21T16:28:30.821513+00:00",
+"2023-07-21T16:28:30.821513Z",
 "metadata":
 {
 "@context":
@@ -5581,7 +5581,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.443312+00:00",
+"2023-07-28T17:27:03.443312Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-11-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -5593,7 +5593,7 @@
 "blob":
 "8c0ee02b-d25f-48b6-95cc-20c65d54e4aa",
 "created":
-"2023-07-21T16:29:23.066396+00:00",
+"2023-07-21T16:29:23.066396Z",
 "metadata":
 {
 "@context":
@@ -5849,7 +5849,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.530090+00:00",
+"2023-07-28T17:27:03.530090Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-12-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -5861,7 +5861,7 @@
 "blob":
 "058f5c26-c13c-4f40-8a5a-e01227def5d0",
 "created":
-"2023-07-21T16:29:57.409723+00:00",
+"2023-07-21T16:29:57.409723Z",
 "metadata":
 {
 "@context":
@@ -6117,7 +6117,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.457392+00:00",
+"2023-07-28T17:27:03.457392Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-13-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -6129,7 +6129,7 @@
 "blob":
 "36179cf4-ce8f-49d9-9e76-f8411387ac4e",
 "created":
-"2023-07-21T16:30:00.883849+00:00",
+"2023-07-21T16:30:00.883849Z",
 "metadata":
 {
 "@context":
@@ -6385,7 +6385,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.463796+00:00",
+"2023-07-28T17:27:03.463796Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-15-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -6397,7 +6397,7 @@
 "blob":
 "8978489a-6150-47fa-a872-595fe4e7c42a",
 "created":
-"2023-07-21T16:29:31.822820+00:00",
+"2023-07-21T16:29:31.822820Z",
 "metadata":
 {
 "@context":
@@ -6653,7 +6653,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.450275+00:00",
+"2023-07-28T17:27:03.450275Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-16-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -6665,7 +6665,7 @@
 "blob":
 "db024589-3240-4776-a24d-3e03161cd3f6",
 "created":
-"2023-07-21T16:30:54.284696+00:00",
+"2023-07-21T16:30:54.284696Z",
 "metadata":
 {
 "@context":
@@ -6921,7 +6921,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.471508+00:00",
+"2023-07-28T17:27:03.471508Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-17-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -6933,7 +6933,7 @@
 "blob":
 "fd237367-a8fc-4391-af33-320a3669f68a",
 "created":
-"2023-07-21T16:30:04.715718+00:00",
+"2023-07-21T16:30:04.715718Z",
 "metadata":
 {
 "@context":
@@ -7189,7 +7189,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.579118+00:00",
+"2023-07-28T17:27:03.579118Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-18-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -7201,7 +7201,7 @@
 "blob":
 "724cfd95-f683-4283-8006-5c137ceed7ac",
 "created":
-"2023-07-21T16:31:33.369009+00:00",
+"2023-07-21T16:31:33.369009Z",
 "metadata":
 {
 "@context":
@@ -7457,7 +7457,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.624523+00:00",
+"2023-07-28T17:27:03.624523Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-19-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -7469,7 +7469,7 @@
 "blob":
 "a1c6a481-f218-4275-8876-71807ac89221",
 "created":
-"2023-07-21T16:31:47.973844+00:00",
+"2023-07-21T16:31:47.973844Z",
 "metadata":
 {
 "@context":
@@ -7725,7 +7725,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.478311+00:00",
+"2023-07-28T17:27:03.478311Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-22-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -7737,7 +7737,7 @@
 "blob":
 "a4c47852-5d69-4d6b-be09-5a43e0438993",
 "created":
-"2023-07-21T16:32:21.207443+00:00",
+"2023-07-21T16:32:21.207443Z",
 "metadata":
 {
 "@context":
@@ -7993,7 +7993,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.487022+00:00",
+"2023-07-28T17:27:03.487022Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-23-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -8005,7 +8005,7 @@
 "blob":
 "5dcdca01-1a94-4e7f-9099-228e4391877f",
 "created":
-"2023-07-21T16:31:50.212201+00:00",
+"2023-07-21T16:31:50.212201Z",
 "metadata":
 {
 "@context":
@@ -8261,7 +8261,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.536234+00:00",
+"2023-07-28T17:27:03.536234Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-24-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -8273,7 +8273,7 @@
 "blob":
 "3caf1287-c86a-4822-a233-33f3cb8525b8",
 "created":
-"2023-07-21T16:32:04.468265+00:00",
+"2023-07-21T16:32:04.468265Z",
 "metadata":
 {
 "@context":
@@ -8529,7 +8529,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.586595+00:00",
+"2023-07-28T17:27:03.586595Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-25-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -8541,7 +8541,7 @@
 "blob":
 "b3ef1059-f2a2-46c5-9153-c98807c77667",
 "created":
-"2023-07-21T16:32:28.392307+00:00",
+"2023-07-21T16:32:28.392307Z",
 "metadata":
 {
 "@context":
@@ -8797,7 +8797,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.495926+00:00",
+"2023-07-28T17:27:03.495926Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-26-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -8809,7 +8809,7 @@
 "blob":
 "d9b91459-ce2d-4c9a-be9f-37ba3a0ed668",
 "created":
-"2023-07-21T16:32:56.832162+00:00",
+"2023-07-21T16:32:56.832162Z",
 "metadata":
 {
 "@context":
@@ -9065,7 +9065,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.630614+00:00",
+"2023-07-28T17:27:03.630614Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-27-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -9077,7 +9077,7 @@
 "blob":
 "caf77455-0571-48cb-b4d4-af848ef7b80d",
 "created":
-"2023-07-21T16:33:18.868563+00:00",
+"2023-07-21T16:33:18.868563Z",
 "metadata":
 {
 "@context":
@@ -9333,7 +9333,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.642875+00:00",
+"2023-07-28T17:27:03.642875Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-28-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -9345,7 +9345,7 @@
 "blob":
 "2c4ce994-bf58-45a8-8979-a976041f1648",
 "created":
-"2023-07-21T16:33:17.425867+00:00",
+"2023-07-21T16:33:17.425867Z",
 "metadata":
 {
 "@context":
@@ -9601,7 +9601,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.636850+00:00",
+"2023-07-28T17:27:03.636850Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-29-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -9613,7 +9613,7 @@
 "blob":
 "2f47bc82-abec-4d3c-9f34-409540312ec9",
 "created":
-"2023-07-21T16:33:40.889248+00:00",
+"2023-07-21T16:33:40.889248Z",
 "metadata":
 {
 "@context":
@@ -9869,7 +9869,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.649127+00:00",
+"2023-07-28T17:27:03.649127Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-30-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -9881,7 +9881,7 @@
 "blob":
 "e78aa8fc-e75b-45b7-9742-5c32778031ed",
 "created":
-"2023-07-21T16:33:47.924290+00:00",
+"2023-07-21T16:33:47.924290Z",
 "metadata":
 {
 "@context":
@@ -10137,7 +10137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.504617+00:00",
+"2023-07-28T17:27:03.504617Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-10-31-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -10149,7 +10149,7 @@
 "blob":
 "51598373-a64c-4329-b178-adcfb38b4824",
 "created":
-"2023-07-21T16:34:03.928402+00:00",
+"2023-07-21T16:34:03.928402Z",
 "metadata":
 {
 "@context":
@@ -10405,7 +10405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.551012+00:00",
+"2023-07-28T17:27:03.551012Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-01-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -10417,7 +10417,7 @@
 "blob":
 "b93f8f28-56ee-4321-98b0-27e5f1fde62e",
 "created":
-"2023-07-21T16:34:32.209137+00:00",
+"2023-07-21T16:34:32.209137Z",
 "metadata":
 {
 "@context":
@@ -10673,7 +10673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.655757+00:00",
+"2023-07-28T17:27:03.655757Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-02-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -10685,7 +10685,7 @@
 "blob":
 "4dff70ed-49bf-41fb-b73d-af5964ab4398",
 "created":
-"2023-07-21T16:34:45.467543+00:00",
+"2023-07-21T16:34:45.467543Z",
 "metadata":
 {
 "@context":
@@ -10941,7 +10941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.511336+00:00",
+"2023-07-28T17:27:03.511336Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-03-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -10953,7 +10953,7 @@
 "blob":
 "38b90422-9a92-41a5-a6ed-d4e9ffd2de89",
 "created":
-"2023-07-21T16:34:50.560345+00:00",
+"2023-07-21T16:34:50.560345Z",
 "metadata":
 {
 "@context":
@@ -11209,7 +11209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.558462+00:00",
+"2023-07-28T17:27:03.558462Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-04-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -11221,7 +11221,7 @@
 "blob":
 "01151426-24bc-437b-8d4d-edc2c27cfb9b",
 "created":
-"2023-07-21T16:34:45.781724+00:00",
+"2023-07-21T16:34:45.781724Z",
 "metadata":
 {
 "@context":
@@ -11477,7 +11477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.593149+00:00",
+"2023-07-28T17:27:03.593149Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-05-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -11489,7 +11489,7 @@
 "blob":
 "bf442d0d-0707-43eb-9232-aae8b547bbd1",
 "created":
-"2023-07-21T16:35:42.700574+00:00",
+"2023-07-21T16:35:42.700574Z",
 "metadata":
 {
 "@context":
@@ -11745,7 +11745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.565188+00:00",
+"2023-07-28T17:27:03.565188Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-06-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -11757,7 +11757,7 @@
 "blob":
 "663714c2-b36e-415d-9629-3e94a48565d4",
 "created":
-"2023-07-21T16:36:49.478050+00:00",
+"2023-07-21T16:36:49.478050Z",
 "metadata":
 {
 "@context":
@@ -12013,7 +12013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.599539+00:00",
+"2023-07-28T17:27:03.599539Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-07-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -12025,7 +12025,7 @@
 "blob":
 "21d52be1-186e-4ac3-9b03-de249e3b6ce2",
 "created":
-"2023-07-21T16:36:54.846026+00:00",
+"2023-07-21T16:36:54.846026Z",
 "metadata":
 {
 "@context":
@@ -12281,7 +12281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.668292+00:00",
+"2023-07-28T17:27:03.668292Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-08-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -12293,7 +12293,7 @@
 "blob":
 "52751a27-0491-4724-928d-b65fb6fe6f53",
 "created":
-"2023-07-21T16:37:04.700544+00:00",
+"2023-07-21T16:37:04.700544Z",
 "metadata":
 {
 "@context":
@@ -12549,7 +12549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.517211+00:00",
+"2023-07-28T17:27:03.517211Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-09-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -12561,7 +12561,7 @@
 "blob":
 "84a9cb03-0602-41d8-b5e2-00d2245d4cb6",
 "created":
-"2023-07-21T16:36:54.736772+00:00",
+"2023-07-21T16:36:54.736772Z",
 "metadata":
 {
 "@context":
@@ -12817,7 +12817,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.611741+00:00",
+"2023-07-28T17:27:03.611741Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-10-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -12829,7 +12829,7 @@
 "blob":
 "7a00db10-110c-4885-9475-71aef30bdebd",
 "created":
-"2023-07-21T16:36:45.907957+00:00",
+"2023-07-21T16:36:45.907957Z",
 "metadata":
 {
 "@context":
@@ -13085,7 +13085,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.662153+00:00",
+"2023-07-28T17:27:03.662153Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-12-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -13097,7 +13097,7 @@
 "blob":
 "f617680b-479e-49a8-90b0-76741d02ee9e",
 "created":
-"2023-07-21T16:38:21.474555+00:00",
+"2023-07-21T16:38:21.474555Z",
 "metadata":
 {
 "@context":
@@ -13353,7 +13353,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.523711+00:00",
+"2023-07-28T17:27:03.523711Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-13-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -13365,7 +13365,7 @@
 "blob":
 "b7d9177c-458b-4ce9-83ff-27637c33e65b",
 "created":
-"2023-07-21T16:38:27.080828+00:00",
+"2023-07-21T16:38:27.080828Z",
 "metadata":
 {
 "@context":
@@ -13621,7 +13621,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.686370+00:00",
+"2023-07-28T17:27:03.686370Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-14-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -13633,7 +13633,7 @@
 "blob":
 "60e3fa04-5a7b-4b5f-8435-5fb0fd4d202f",
 "created":
-"2023-07-21T16:38:34.279256+00:00",
+"2023-07-21T16:38:34.279256Z",
 "metadata":
 {
 "@context":
@@ -13889,7 +13889,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.742319+00:00",
+"2023-07-28T17:27:03.742319Z",
 "path":
 "sub-10/sub-10_ses-mouse-10-session-date-2017-11-15-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -13901,7 +13901,7 @@
 "blob":
 "8d2d5d8f-6815-480a-b09d-e9caa373bd4e",
 "created":
-"2023-07-21T16:37:58.947174+00:00",
+"2023-07-21T16:37:58.947174Z",
 "metadata":
 {
 "@context":
@@ -14117,7 +14117,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.573007+00:00",
+"2023-07-28T17:27:03.573007Z",
 "path":
 "sub-3/sub-3_ses-Mouse-3-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -14129,7 +14129,7 @@
 "blob":
 "f2bb96ca-231a-4883-a61b-5b5816a1ed12",
 "created":
-"2023-07-21T16:38:31.610296+00:00",
+"2023-07-21T16:38:31.610296Z",
 "metadata":
 {
 "@context":
@@ -14385,7 +14385,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.618242+00:00",
+"2023-07-28T17:27:03.618242Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-04-27-area-AM-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -14397,7 +14397,7 @@
 "blob":
 "14518303-2c00-4221-b164-02cc460ca670",
 "created":
-"2023-07-21T16:39:30.801446+00:00",
+"2023-07-21T16:39:30.801446Z",
 "metadata":
 {
 "@context":
@@ -14653,7 +14653,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.772043+00:00",
+"2023-07-28T17:27:03.772043Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-04-28-area-visA-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -14665,7 +14665,7 @@
 "blob":
 "378ef1ee-618f-42e3-94cf-38da55814bd8",
 "created":
-"2023-07-21T16:40:44.539219+00:00",
+"2023-07-21T16:40:44.539219Z",
 "metadata":
 {
 "@context":
@@ -14921,7 +14921,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.778598+00:00",
+"2023-07-28T17:27:03.778598Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-04-29-area-RSC-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -14933,7 +14933,7 @@
 "blob":
 "3e93b377-803a-4fe8-89d7-a1e405f3eb4c",
 "created":
-"2023-07-21T16:40:22.629886+00:00",
+"2023-07-21T16:40:22.629886Z",
 "metadata":
 {
 "@context":
@@ -15189,7 +15189,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.805051+00:00",
+"2023-07-28T17:27:03.805051Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-01-area-RSC-L5-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -15201,7 +15201,7 @@
 "blob":
 "a7d12750-89d2-496c-8fdc-0fb2bb3b580e",
 "created":
-"2023-07-21T16:40:26.081837+00:00",
+"2023-07-21T16:40:26.081837Z",
 "metadata":
 {
 "@context":
@@ -15457,7 +15457,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.757848+00:00",
+"2023-07-28T17:27:03.757848Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-02-area-MM-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -15469,7 +15469,7 @@
 "blob":
 "4334d330-870f-45b5-a4da-8fb9de5c501e",
 "created":
-"2023-07-21T16:40:17.030889+00:00",
+"2023-07-21T16:40:17.030889Z",
 "metadata":
 {
 "@context":
@@ -15725,7 +15725,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.749794+00:00",
+"2023-07-28T17:27:03.749794Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-03-area-PM-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -15737,7 +15737,7 @@
 "blob":
 "a4046984-0f22-4d65-a407-31137a946061",
 "created":
-"2023-07-21T16:40:47.461337+00:00",
+"2023-07-21T16:40:47.461337Z",
 "metadata":
 {
 "@context":
@@ -15993,7 +15993,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.694907+00:00",
+"2023-07-28T17:27:03.694907Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-04-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -16005,7 +16005,7 @@
 "blob":
 "195f217c-85f0-4896-854b-7a067882ed05",
 "created":
-"2023-07-21T16:41:32.097023+00:00",
+"2023-07-21T16:41:32.097023Z",
 "metadata":
 {
 "@context":
@@ -16261,7 +16261,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.764983+00:00",
+"2023-07-28T17:27:03.764983Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-05-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -16273,7 +16273,7 @@
 "blob":
 "792ef656-7d22-4b2a-9f6e-2d43c816293d",
 "created":
-"2023-07-21T16:41:37.525549+00:00",
+"2023-07-21T16:41:37.525549Z",
 "metadata":
 {
 "@context":
@@ -16529,7 +16529,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.861811+00:00",
+"2023-07-28T17:27:03.861811Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-07-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -16541,7 +16541,7 @@
 "blob":
 "696cf35e-a67e-4508-9ee6-80970b1eadc4",
 "created":
-"2023-07-21T16:41:37.824874+00:00",
+"2023-07-21T16:41:37.824874Z",
 "metadata":
 {
 "@context":
@@ -16797,7 +16797,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.785144+00:00",
+"2023-07-28T17:27:03.785144Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-08-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -16809,7 +16809,7 @@
 "blob":
 "7a9468bc-aab5-4bac-b191-6224acc77c3f",
 "created":
-"2023-07-21T16:42:01.823135+00:00",
+"2023-07-21T16:42:01.823135Z",
 "metadata":
 {
 "@context":
@@ -17065,7 +17065,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.811673+00:00",
+"2023-07-28T17:27:03.811673Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-09-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -17077,7 +17077,7 @@
 "blob":
 "23465920-a4d4-48a3-944b-96e107da6a45",
 "created":
-"2023-07-21T16:42:19.187467+00:00",
+"2023-07-21T16:42:19.187467Z",
 "metadata":
 {
 "@context":
@@ -17333,7 +17333,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.818219+00:00",
+"2023-07-28T17:27:03.818219Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-10-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -17345,7 +17345,7 @@
 "blob":
 "c133d54f-c78b-4828-9d43-437069b5a71d",
 "created":
-"2023-07-21T16:43:08.484202+00:00",
+"2023-07-21T16:43:08.484202Z",
 "metadata":
 {
 "@context":
@@ -17601,7 +17601,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.702268+00:00",
+"2023-07-28T17:27:03.702268Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-11-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -17613,7 +17613,7 @@
 "blob":
 "8a511ded-f584-4aa5-9ae9-777227524a40",
 "created":
-"2023-07-21T16:43:16.522940+00:00",
+"2023-07-21T16:43:16.522940Z",
 "metadata":
 {
 "@context":
@@ -17869,7 +17869,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.709185+00:00",
+"2023-07-28T17:27:03.709185Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-12-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -17881,7 +17881,7 @@
 "blob":
 "7b5c6475-31b4-4043-93b0-01fe24130ff4",
 "created":
-"2023-07-21T16:43:12.107413+00:00",
+"2023-07-21T16:43:12.107413Z",
 "metadata":
 {
 "@context":
@@ -18137,7 +18137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.792033+00:00",
+"2023-07-28T17:27:03.792033Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-13-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -18149,7 +18149,7 @@
 "blob":
 "0d1591df-f20a-459a-9268-46da4eb81251",
 "created":
-"2023-07-21T16:44:42.889118+00:00",
+"2023-07-21T16:44:42.889118Z",
 "metadata":
 {
 "@context":
@@ -18405,7 +18405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.825655+00:00",
+"2023-07-28T17:27:03.825655Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-14-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -18417,7 +18417,7 @@
 "blob":
 "0ddce02c-dac6-48ac-9d69-78a6d647a97b",
 "created":
-"2023-07-21T16:44:59.213447+00:00",
+"2023-07-21T16:44:59.213447Z",
 "metadata":
 {
 "@context":
@@ -18673,7 +18673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.868501+00:00",
+"2023-07-28T17:27:03.868501Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-15-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -18685,7 +18685,7 @@
 "blob":
 "37e771cd-14fc-4bdc-8d99-9fa13e714ec7",
 "created":
-"2023-07-21T16:44:46.169208+00:00",
+"2023-07-21T16:44:46.169208Z",
 "metadata":
 {
 "@context":
@@ -18941,7 +18941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.715971+00:00",
+"2023-07-28T17:27:03.715971Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-16-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -18953,7 +18953,7 @@
 "blob":
 "f8ace8bb-b1fe-423e-94b6-b04a2330a7ea",
 "created":
-"2023-07-21T16:44:52.526176+00:00",
+"2023-07-21T16:44:52.526176Z",
 "metadata":
 {
 "@context":
@@ -19209,7 +19209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.722412+00:00",
+"2023-07-28T17:27:03.722412Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-17-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -19221,7 +19221,7 @@
 "blob":
 "1c207a48-ff5e-4f3b-895f-6d893cc49770",
 "created":
-"2023-07-21T16:45:04.945519+00:00",
+"2023-07-21T16:45:04.945519Z",
 "metadata":
 {
 "@context":
@@ -19477,7 +19477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.831842+00:00",
+"2023-07-28T17:27:03.831842Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-18-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -19489,7 +19489,7 @@
 "blob":
 "774ebe0e-5598-4973-b17c-c204726827bb",
 "created":
-"2023-07-21T16:46:18.856808+00:00",
+"2023-07-21T16:46:18.856808Z",
 "metadata":
 {
 "@context":
@@ -19745,7 +19745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.846947+00:00",
+"2023-07-28T17:27:03.846947Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-21-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -19757,7 +19757,7 @@
 "blob":
 "d6b8010a-f8f4-4d68-b734-7b7ca2bf204d",
 "created":
-"2023-07-21T16:46:17.045212+00:00",
+"2023-07-21T16:46:17.045212Z",
 "metadata":
 {
 "@context":
@@ -20013,7 +20013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.838767+00:00",
+"2023-07-28T17:27:03.838767Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-22-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -20025,7 +20025,7 @@
 "blob":
 "67a9a538-d08f-4535-9de8-9a89ea58feb9",
 "created":
-"2023-07-21T16:46:20.437432+00:00",
+"2023-07-21T16:46:20.437432Z",
 "metadata":
 {
 "@context":
@@ -20281,7 +20281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.729278+00:00",
+"2023-07-28T17:27:03.729278Z",
 "path":
 "sub-3/sub-3_ses-mouse-3-session-date-2017-05-23-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -20293,7 +20293,7 @@
 "blob":
 "6415f15b-2006-4046-bb14-19a875a67e2c",
 "created":
-"2023-07-21T16:46:13.594755+00:00",
+"2023-07-21T16:46:13.594755Z",
 "metadata":
 {
 "@context":
@@ -20509,7 +20509,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.875322+00:00",
+"2023-07-28T17:27:03.875322Z",
 "path":
 "sub-4/sub-4_ses-Mouse-4-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -20521,7 +20521,7 @@
 "blob":
 "88006736-eca7-4fc7-82a6-21c71333750d",
 "created":
-"2023-07-21T16:46:50.147756+00:00",
+"2023-07-21T16:46:50.147756Z",
 "metadata":
 {
 "@context":
@@ -20777,7 +20777,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.735967+00:00",
+"2023-07-28T17:27:03.735967Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-13-area-V1-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -20789,7 +20789,7 @@
 "blob":
 "dedd4da6-ac91-4e2c-ab48-858555b651ed",
 "created":
-"2023-07-21T16:48:31.228535+00:00",
+"2023-07-21T16:48:31.228535Z",
 "metadata":
 {
 "@context":
@@ -21045,7 +21045,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.881777+00:00",
+"2023-07-28T17:27:03.881777Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-15-area-visA-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -21057,7 +21057,7 @@
 "blob":
 "e6b55089-53bc-4f03-8950-043219968c50",
 "created":
-"2023-07-21T16:48:22.855252+00:00",
+"2023-07-21T16:48:22.855252Z",
 "metadata":
 {
 "@context":
@@ -21313,7 +21313,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.855119+00:00",
+"2023-07-28T17:27:03.855119Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-16-area-MM-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -21325,7 +21325,7 @@
 "blob":
 "236358fb-b560-4582-8089-1b84d6cbc38d",
 "created":
-"2023-07-21T16:48:49.336074+00:00",
+"2023-07-21T16:48:49.336074Z",
 "metadata":
 {
 "@context":
@@ -21581,7 +21581,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.960942+00:00",
+"2023-07-28T17:27:03.960942Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-18-area-AM-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -21593,7 +21593,7 @@
 "blob":
 "eab6274b-76cf-48dd-8fb6-6cb836dce492",
 "created":
-"2023-07-21T16:48:07.645309+00:00",
+"2023-07-21T16:48:07.645309Z",
 "metadata":
 {
 "@context":
@@ -21849,7 +21849,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.798484+00:00",
+"2023-07-28T17:27:03.798484Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-21-area-RSC-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -21861,7 +21861,7 @@
 "blob":
 "6710c3f6-38ce-4096-b086-f673d6fa86e1",
 "created":
-"2023-07-21T16:48:50.009382+00:00",
+"2023-07-21T16:48:50.009382Z",
 "metadata":
 {
 "@context":
@@ -22117,7 +22117,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.888911+00:00",
+"2023-07-28T17:27:03.888911Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-22-area-RSC-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -22129,7 +22129,7 @@
 "blob":
 "80ed6deb-3cb6-444f-911e-7f2478838530",
 "created":
-"2023-07-21T16:49:18.005236+00:00",
+"2023-07-21T16:49:18.005236Z",
 "metadata":
 {
 "@context":
@@ -22385,7 +22385,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.896022+00:00",
+"2023-07-28T17:27:03.896022Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-23-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -22397,7 +22397,7 @@
 "blob":
 "40003f95-79da-4d31-bc8d-5657a44a5690",
 "created":
-"2023-07-21T16:49:55.621013+00:00",
+"2023-07-21T16:49:55.621013Z",
 "metadata":
 {
 "@context":
@@ -22653,7 +22653,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.967514+00:00",
+"2023-07-28T17:27:03.967514Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-24-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -22665,7 +22665,7 @@
 "blob":
 "9ce95edc-bbfa-4998-bc27-32dcb7e79879",
 "created":
-"2023-07-21T16:50:01.252434+00:00",
+"2023-07-21T16:50:01.252434Z",
 "metadata":
 {
 "@context":
@@ -22921,7 +22921,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.976357+00:00",
+"2023-07-28T17:27:03.976357Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-25-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -22933,7 +22933,7 @@
 "blob":
 "b8636dc3-4be5-403b-9538-9085494727dd",
 "created":
-"2023-07-21T16:50:02.908868+00:00",
+"2023-07-21T16:50:02.908868Z",
 "metadata":
 {
 "@context":
@@ -23189,7 +23189,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.017835+00:00",
+"2023-07-28T17:27:04.017835Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-26-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -23201,7 +23201,7 @@
 "blob":
 "7d56446e-6bae-4a86-8caf-8e542b34fb5d",
 "created":
-"2023-07-21T16:50:10.487109+00:00",
+"2023-07-21T16:50:10.487109Z",
 "metadata":
 {
 "@context":
@@ -23457,7 +23457,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.908324+00:00",
+"2023-07-28T17:27:03.908324Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-28-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -23469,7 +23469,7 @@
 "blob":
 "dcaf8061-b9ce-4896-8a59-78f600682f04",
 "created":
-"2023-07-21T16:50:54.287443+00:00",
+"2023-07-21T16:50:54.287443Z",
 "metadata":
 {
 "@context":
@@ -23725,7 +23725,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.091084+00:00",
+"2023-07-28T17:27:04.091084Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-29-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -23737,7 +23737,7 @@
 "blob":
 "e872d525-a26f-4408-81a3-9a27119aaeee",
 "created":
-"2023-07-21T16:51:24.164570+00:00",
+"2023-07-21T16:51:24.164570Z",
 "metadata":
 {
 "@context":
@@ -23993,7 +23993,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.024321+00:00",
+"2023-07-28T17:27:04.024321Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-30-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -24005,7 +24005,7 @@
 "blob":
 "c5db294b-5dcc-4bc6-834e-59b83d95442d",
 "created":
-"2023-07-21T16:52:09.549642+00:00",
+"2023-07-21T16:52:09.549642Z",
 "metadata":
 {
 "@context":
@@ -24261,7 +24261,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.915579+00:00",
+"2023-07-28T17:27:03.915579Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-05-31-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -24273,7 +24273,7 @@
 "blob":
 "038134b3-bc1e-4334-94d0-ae8f198d6b1a",
 "created":
-"2023-07-21T16:51:21.377929+00:00",
+"2023-07-21T16:51:21.377929Z",
 "metadata":
 {
 "@context":
@@ -24529,7 +24529,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.984529+00:00",
+"2023-07-28T17:27:03.984529Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-01-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -24541,7 +24541,7 @@
 "blob":
 "550190b3-73b4-44e1-9ee4-2a6227ecc9d4",
 "created":
-"2023-07-21T16:52:03.788800+00:00",
+"2023-07-21T16:52:03.788800Z",
 "metadata":
 {
 "@context":
@@ -24797,7 +24797,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.097062+00:00",
+"2023-07-28T17:27:04.097062Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-02-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -24809,7 +24809,7 @@
 "blob":
 "279a62da-75be-4648-9b9b-82e096f01cc7",
 "created":
-"2023-07-21T16:52:14.531442+00:00",
+"2023-07-21T16:52:14.531442Z",
 "metadata":
 {
 "@context":
@@ -25065,7 +25065,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.104235+00:00",
+"2023-07-28T17:27:04.104235Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-05-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -25077,7 +25077,7 @@
 "blob":
 "462921b1-649a-49ba-9310-b525b202a046",
 "created":
-"2023-07-21T16:52:52.499995+00:00",
+"2023-07-21T16:52:52.499995Z",
 "metadata":
 {
 "@context":
@@ -25333,7 +25333,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.111244+00:00",
+"2023-07-28T17:27:04.111244Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-06-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -25345,7 +25345,7 @@
 "blob":
 "ec0c6289-a79f-45cc-b25b-30b1297b8e4e",
 "created":
-"2023-07-21T16:53:21.619550+00:00",
+"2023-07-21T16:53:21.619550Z",
 "metadata":
 {
 "@context":
@@ -25601,7 +25601,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.117679+00:00",
+"2023-07-28T17:27:04.117679Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-07-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -25613,7 +25613,7 @@
 "blob":
 "8811f06a-3be0-423c-a376-4e047b759dc4",
 "created":
-"2023-07-21T16:53:25.756764+00:00",
+"2023-07-21T16:53:25.756764Z",
 "metadata":
 {
 "@context":
@@ -25869,7 +25869,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.031532+00:00",
+"2023-07-28T17:27:04.031532Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-08-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -25881,7 +25881,7 @@
 "blob":
 "f90aac1c-7719-42d9-8a35-7f68bb00511f",
 "created":
-"2023-07-21T16:53:59.408362+00:00",
+"2023-07-21T16:53:59.408362Z",
 "metadata":
 {
 "@context":
@@ -26137,7 +26137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.123849+00:00",
+"2023-07-28T17:27:04.123849Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-09-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -26149,7 +26149,7 @@
 "blob":
 "75f78a2f-778a-470b-98d7-bb20ac122ba7",
 "created":
-"2023-07-21T16:53:25.251151+00:00",
+"2023-07-21T16:53:25.251151Z",
 "metadata":
 {
 "@context":
@@ -26405,7 +26405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.923016+00:00",
+"2023-07-28T17:27:03.923016Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-10-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -26417,7 +26417,7 @@
 "blob":
 "bf731b4c-48cd-44fd-b615-c20af532fcc6",
 "created":
-"2023-07-21T16:53:34.307606+00:00",
+"2023-07-21T16:53:34.307606Z",
 "metadata":
 {
 "@context":
@@ -26673,7 +26673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.039010+00:00",
+"2023-07-28T17:27:04.039010Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-13-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -26685,7 +26685,7 @@
 "blob":
 "b05a33e2-f186-4c50-b975-818a16b7e126",
 "created":
-"2023-07-21T16:55:23.191149+00:00",
+"2023-07-21T16:55:23.191149Z",
 "metadata":
 {
 "@context":
@@ -26941,7 +26941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.055120+00:00",
+"2023-07-28T17:27:04.055120Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-15-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -26953,7 +26953,7 @@
 "blob":
 "601aacd7-eaab-40a3-9988-6cbf5695e03e",
 "created":
-"2023-07-21T16:55:19.257600+00:00",
+"2023-07-21T16:55:19.257600Z",
 "metadata":
 {
 "@context":
@@ -27209,7 +27209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.047494+00:00",
+"2023-07-28T17:27:04.047494Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-19-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -27221,7 +27221,7 @@
 "blob":
 "4bf6bfd7-48ce-4221-90a9-7a198a2805e5",
 "created":
-"2023-07-21T16:55:25.081310+00:00",
+"2023-07-21T16:55:25.081310Z",
 "metadata":
 {
 "@context":
@@ -27477,7 +27477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.999038+00:00",
+"2023-07-28T17:27:03.999038Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-20-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -27489,7 +27489,7 @@
 "blob":
 "e3314c69-dd8a-4c2d-97fc-3e9a78425bfd",
 "created":
-"2023-07-21T16:55:18.870186+00:00",
+"2023-07-21T16:55:18.870186Z",
 "metadata":
 {
 "@context":
@@ -27745,7 +27745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.991809+00:00",
+"2023-07-28T17:27:03.991809Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-21-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -27757,7 +27757,7 @@
 "blob":
 "f0e18bd8-8670-4945-b2fd-28144fc805cb",
 "created":
-"2023-07-21T16:55:48.636225+00:00",
+"2023-07-21T16:55:48.636225Z",
 "metadata":
 {
 "@context":
@@ -28013,7 +28013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.130442+00:00",
+"2023-07-28T17:27:04.130442Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-22-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -28025,7 +28025,7 @@
 "blob":
 "5e35062d-777b-48bc-98b6-adec0204743f",
 "created":
-"2023-07-21T16:56:56.612920+00:00",
+"2023-07-21T16:56:56.612920Z",
 "metadata":
 {
 "@context":
@@ -28281,7 +28281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.936489+00:00",
+"2023-07-28T17:27:03.936489Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-23-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -28293,7 +28293,7 @@
 "blob":
 "7a999039-47d9-44cf-ac1e-0bed1f72dcad",
 "created":
-"2023-07-21T16:56:50.513817+00:00",
+"2023-07-21T16:56:50.513817Z",
 "metadata":
 {
 "@context":
@@ -28549,7 +28549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.011171+00:00",
+"2023-07-28T17:27:04.011171Z",
 "path":
 "sub-4/sub-4_ses-mouse-4-session-date-2017-06-24-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -28561,7 +28561,7 @@
 "blob":
 "3763018d-1204-4170-8bb7-cfd1251ca1b0",
 "created":
-"2023-07-21T16:56:25.392143+00:00",
+"2023-07-21T16:56:25.392143Z",
 "metadata":
 {
 "@context":
@@ -28777,7 +28777,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.929918+00:00",
+"2023-07-28T17:27:03.929918Z",
 "path":
 "sub-5/sub-5_ses-Mouse-5-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -28789,7 +28789,7 @@
 "blob":
 "0949bbf3-1c61-43c8-beee-78843c4e637c",
 "created":
-"2023-07-21T16:57:03.296096+00:00",
+"2023-07-21T16:57:03.296096Z",
 "metadata":
 {
 "@context":
@@ -29045,7 +29045,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.069384+00:00",
+"2023-07-28T17:27:04.069384Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-13-area-V1-L23-single-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -29057,7 +29057,7 @@
 "blob":
 "05d9533b-de3d-41a8-aefb-5ba8ee0f46c0",
 "created":
-"2023-07-21T16:57:02.249419+00:00",
+"2023-07-21T16:57:02.249419Z",
 "metadata":
 {
 "@context":
@@ -29313,7 +29313,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.062466+00:00",
+"2023-07-28T17:27:04.062466Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-15-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -29325,7 +29325,7 @@
 "blob":
 "1c8e9f1f-15ca-4286-8e20-fca5e1592d32",
 "created":
-"2023-07-21T16:58:13.721733+00:00",
+"2023-07-21T16:58:13.721733Z",
 "metadata":
 {
 "@context":
@@ -29581,7 +29581,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.078351+00:00",
+"2023-07-28T17:27:04.078351Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-16-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -29593,7 +29593,7 @@
 "blob":
 "2e26d470-dce2-4447-a0da-8a96b3b0e6dd",
 "created":
-"2023-07-21T16:58:03.466497+00:00",
+"2023-07-21T16:58:03.466497Z",
 "metadata":
 {
 "@context":
@@ -29849,7 +29849,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.944305+00:00",
+"2023-07-28T17:27:03.944305Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-19-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -29861,7 +29861,7 @@
 "blob":
 "517adbb9-e417-450a-b57f-767cb577b15f",
 "created":
-"2023-07-21T16:58:19.768523+00:00",
+"2023-07-21T16:58:19.768523Z",
 "metadata":
 {
 "@context":
@@ -30117,7 +30117,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:03.954041+00:00",
+"2023-07-28T17:27:03.954041Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-20-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -30129,7 +30129,7 @@
 "blob":
 "fab34f0d-48f4-4126-9a21-3eb89dc38461",
 "created":
-"2023-07-21T16:58:21.257931+00:00",
+"2023-07-21T16:58:21.257931Z",
 "metadata":
 {
 "@context":
@@ -30385,7 +30385,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.136970+00:00",
+"2023-07-28T17:27:04.136970Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-21-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -30397,7 +30397,7 @@
 "blob":
 "4cdaa036-b092-4e99-86aa-d62b770d86a2",
 "created":
-"2023-07-21T16:58:24.020064+00:00",
+"2023-07-21T16:58:24.020064Z",
 "metadata":
 {
 "@context":
@@ -30653,7 +30653,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.084630+00:00",
+"2023-07-28T17:27:04.084630Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-22-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -30665,7 +30665,7 @@
 "blob":
 "b03c1fdd-be74-4f5c-a0f8-bafbfd0cd734",
 "created":
-"2023-07-21T16:59:34.028321+00:00",
+"2023-07-21T16:59:34.028321Z",
 "metadata":
 {
 "@context":
@@ -30921,7 +30921,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.269952+00:00",
+"2023-07-28T17:27:04.269952Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-23-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -30933,7 +30933,7 @@
 "blob":
 "c1cb8eb5-6477-4dc3-acf5-9a1e4c29463d",
 "created":
-"2023-07-21T16:59:16.744526+00:00",
+"2023-07-21T16:59:16.744526Z",
 "metadata":
 {
 "@context":
@@ -31189,7 +31189,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.215363+00:00",
+"2023-07-28T17:27:04.215363Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-24-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -31201,7 +31201,7 @@
 "blob":
 "3ed9e2cc-a323-4dc7-9ff0-2989c34dd29e",
 "created":
-"2023-07-21T16:59:39.419477+00:00",
+"2023-07-21T16:59:39.419477Z",
 "metadata":
 {
 "@context":
@@ -31457,7 +31457,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.144035+00:00",
+"2023-07-28T17:27:04.144035Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-27-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -31469,7 +31469,7 @@
 "blob":
 "c06c7861-48e9-4601-961a-a49411b7d0e4",
 "created":
-"2023-07-21T16:59:39.960023+00:00",
+"2023-07-21T16:59:39.960023Z",
 "metadata":
 {
 "@context":
@@ -31725,7 +31725,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.150872+00:00",
+"2023-07-28T17:27:04.150872Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-28-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -31737,7 +31737,7 @@
 "blob":
 "6c7c7467-c6b3-4df4-af25-64fb64f79dfa",
 "created":
-"2023-07-21T16:59:57.488302+00:00",
+"2023-07-21T16:59:57.488302Z",
 "metadata":
 {
 "@context":
@@ -31993,7 +31993,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.227263+00:00",
+"2023-07-28T17:27:04.227263Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-29-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -32005,7 +32005,7 @@
 "blob":
 "68e93b8a-dc85-4d2f-a2f8-c4afe0681a20",
 "created":
-"2023-07-21T17:01:03.929981+00:00",
+"2023-07-21T17:01:03.929981Z",
 "metadata":
 {
 "@context":
@@ -32261,7 +32261,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.234792+00:00",
+"2023-07-28T17:27:04.234792Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-06-30-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -32273,7 +32273,7 @@
 "blob":
 "a6973eb7-9b02-4a35-9630-726fdb98a295",
 "created":
-"2023-07-21T17:00:59.213079+00:00",
+"2023-07-21T17:00:59.213079Z",
 "metadata":
 {
 "@context":
@@ -32529,7 +32529,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.277372+00:00",
+"2023-07-28T17:27:04.277372Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-01-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -32541,7 +32541,7 @@
 "blob":
 "9f3254f2-713a-48b1-b4f8-b7eaf5d99967",
 "created":
-"2023-07-21T17:01:18.123013+00:00",
+"2023-07-21T17:01:18.123013Z",
 "metadata":
 {
 "@context":
@@ -32797,7 +32797,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.283620+00:00",
+"2023-07-28T17:27:04.283620Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-03-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -32809,7 +32809,7 @@
 "blob":
 "d7d16473-8705-4c5d-be9c-6f0f78b338c2",
 "created":
-"2023-07-21T17:01:12.503160+00:00",
+"2023-07-21T17:01:12.503160Z",
 "metadata":
 {
 "@context":
@@ -33065,7 +33065,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.305631+00:00",
+"2023-07-28T17:27:04.305631Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-04-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -33077,7 +33077,7 @@
 "blob":
 "d2d74dad-caab-4f40-ac86-40b85e690854",
 "created":
-"2023-07-21T17:01:06.852180+00:00",
+"2023-07-21T17:01:06.852180Z",
 "metadata":
 {
 "@context":
@@ -33333,7 +33333,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.157704+00:00",
+"2023-07-28T17:27:04.157704Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-05-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -33345,7 +33345,7 @@
 "blob":
 "04e2ccde-7401-4e56-acb6-e3be4abf9a9b",
 "created":
-"2023-07-21T17:02:29.794753+00:00",
+"2023-07-21T17:02:29.794753Z",
 "metadata":
 {
 "@context":
@@ -33601,7 +33601,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.312334+00:00",
+"2023-07-28T17:27:04.312334Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-06-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -33613,7 +33613,7 @@
 "blob":
 "a2d0a29a-4542-4e5c-b57b-66286571a9fe",
 "created":
-"2023-07-21T17:02:50.116990+00:00",
+"2023-07-21T17:02:50.116990Z",
 "metadata":
 {
 "@context":
@@ -33869,7 +33869,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.318668+00:00",
+"2023-07-28T17:27:04.318668Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-07-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -33881,7 +33881,7 @@
 "blob":
 "ef87ac2e-ece6-41ca-b75e-e89a968e14cb",
 "created":
-"2023-07-21T17:02:51.869448+00:00",
+"2023-07-21T17:02:51.869448Z",
 "metadata":
 {
 "@context":
@@ -34137,7 +34137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.164365+00:00",
+"2023-07-28T17:27:04.164365Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-09-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -34149,7 +34149,7 @@
 "blob":
 "2cb1fa9a-4aad-4cc2-bbb0-be72f145198b",
 "created":
-"2023-07-21T17:02:53.113486+00:00",
+"2023-07-21T17:02:53.113486Z",
 "metadata":
 {
 "@context":
@@ -34405,7 +34405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.324748+00:00",
+"2023-07-28T17:27:04.324748Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-10-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -34417,7 +34417,7 @@
 "blob":
 "2969ba9b-c6bc-4092-bb8e-44957bb68bb4",
 "created":
-"2023-07-21T17:02:45.036374+00:00",
+"2023-07-21T17:02:45.036374Z",
 "metadata":
 {
 "@context":
@@ -34673,7 +34673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.241438+00:00",
+"2023-07-28T17:27:04.241438Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-11-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -34685,7 +34685,7 @@
 "blob":
 "ef4b0fdd-03e8-499a-ab05-61d610d1f1c5",
 "created":
-"2023-07-21T17:03:34.136262+00:00",
+"2023-07-21T17:03:34.136262Z",
 "metadata":
 {
 "@context":
@@ -34941,7 +34941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.248178+00:00",
+"2023-07-28T17:27:04.248178Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-12-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -34953,7 +34953,7 @@
 "blob":
 "0e9a1242-dae8-46e0-99ef-ed7705516b4a",
 "created":
-"2023-07-21T17:04:54.096084+00:00",
+"2023-07-21T17:04:54.096084Z",
 "metadata":
 {
 "@context":
@@ -35209,7 +35209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.331110+00:00",
+"2023-07-28T17:27:04.331110Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-13-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -35221,7 +35221,7 @@
 "blob":
 "575390db-887b-4c4b-b7a2-46eb6c824278",
 "created":
-"2023-07-21T17:04:58.896118+00:00",
+"2023-07-21T17:04:58.896118Z",
 "metadata":
 {
 "@context":
@@ -35477,7 +35477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.290480+00:00",
+"2023-07-28T17:27:04.290480Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-14-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -35489,7 +35489,7 @@
 "blob":
 "cc07fd8a-9214-4617-86f9-67f81e81d339",
 "created":
-"2023-07-21T17:04:50.290613+00:00",
+"2023-07-21T17:04:50.290613Z",
 "metadata":
 {
 "@context":
@@ -35745,7 +35745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.256516+00:00",
+"2023-07-28T17:27:04.256516Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-15-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -35757,7 +35757,7 @@
 "blob":
 "18079924-c019-45eb-82d2-9e62576c01f1",
 "created":
-"2023-07-21T17:04:55.350548+00:00",
+"2023-07-21T17:04:55.350548Z",
 "metadata":
 {
 "@context":
@@ -36013,7 +36013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.170493+00:00",
+"2023-07-28T17:27:04.170493Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-16-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -36025,7 +36025,7 @@
 "blob":
 "081c13b5-a297-42ae-9119-a012e3ab824c",
 "created":
-"2023-07-21T17:05:09.910605+00:00",
+"2023-07-21T17:05:09.910605Z",
 "metadata":
 {
 "@context":
@@ -36281,7 +36281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.338300+00:00",
+"2023-07-28T17:27:04.338300Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-17-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -36293,7 +36293,7 @@
 "blob":
 "f3d6db08-da67-48b5-9244-86fb5808365d",
 "created":
-"2023-07-21T17:06:34.285100+00:00",
+"2023-07-21T17:06:34.285100Z",
 "metadata":
 {
 "@context":
@@ -36549,7 +36549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.350755+00:00",
+"2023-07-28T17:27:04.350755Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-18-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -36561,7 +36561,7 @@
 "blob":
 "f0984ecd-f94c-4b72-8bd0-78512fd509f7",
 "created":
-"2023-07-21T17:06:41.303840+00:00",
+"2023-07-21T17:06:41.303840Z",
 "metadata":
 {
 "@context":
@@ -36817,7 +36817,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.263101+00:00",
+"2023-07-28T17:27:04.263101Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-19-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -36829,7 +36829,7 @@
 "blob":
 "a3651017-6074-4d10-bafd-f7dd5e09159d",
 "created":
-"2023-07-21T17:06:48.683652+00:00",
+"2023-07-21T17:06:48.683652Z",
 "metadata":
 {
 "@context":
@@ -37085,7 +37085,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.177023+00:00",
+"2023-07-28T17:27:04.177023Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-20-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -37097,7 +37097,7 @@
 "blob":
 "81a3f1d7-2fa2-4839-9ec8-092bb58b643f",
 "created":
-"2023-07-21T17:06:42.139315+00:00",
+"2023-07-21T17:06:42.139315Z",
 "metadata":
 {
 "@context":
@@ -37353,7 +37353,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.296530+00:00",
+"2023-07-28T17:27:04.296530Z",
 "path":
 "sub-5/sub-5_ses-mouse-5-session-date-2017-07-21-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -37365,7 +37365,7 @@
 "blob":
 "8582fc89-89db-4d50-915b-9a6d42251e7d",
 "created":
-"2023-07-21T17:06:23.742594+00:00",
+"2023-07-21T17:06:23.742594Z",
 "metadata":
 {
 "@context":
@@ -37581,7 +37581,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.344689+00:00",
+"2023-07-28T17:27:04.344689Z",
 "path":
 "sub-6/sub-6_ses-Mouse-6-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -37593,7 +37593,7 @@
 "blob":
 "4e24b384-80a7-4c13-b663-c3931ef7a2e2",
 "created":
-"2023-07-21T17:07:38.596192+00:00",
+"2023-07-21T17:07:38.596192Z",
 "metadata":
 {
 "@context":
@@ -37849,7 +37849,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.189776+00:00",
+"2023-07-28T17:27:04.189776Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-06-27-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -37861,7 +37861,7 @@
 "blob":
 "85e06115-7319-4638-801a-70aa634abf64",
 "created":
-"2023-07-21T17:07:32.888219+00:00",
+"2023-07-21T17:07:32.888219Z",
 "metadata":
 {
 "@context":
@@ -38117,7 +38117,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.183541+00:00",
+"2023-07-28T17:27:04.183541Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-06-28-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -38129,7 +38129,7 @@
 "blob":
 "7105d760-9d65-42a1-a770-3574e23bdcbd",
 "created":
-"2023-07-21T17:07:46.399077+00:00",
+"2023-07-21T17:07:46.399077Z",
 "metadata":
 {
 "@context":
@@ -38385,7 +38385,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.196019+00:00",
+"2023-07-28T17:27:04.196019Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-06-29-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -38397,7 +38397,7 @@
 "blob":
 "c01d521e-6c1a-4528-a023-dff4a579a10a",
 "created":
-"2023-07-21T17:07:53.228051+00:00",
+"2023-07-21T17:07:53.228051Z",
 "metadata":
 {
 "@context":
@@ -38653,7 +38653,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.202116+00:00",
+"2023-07-28T17:27:04.202116Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-06-30-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -38665,7 +38665,7 @@
 "blob":
 "51d3c8e6-e6a6-41b0-9a21-bf231c9e74a1",
 "created":
-"2023-07-21T17:08:02.231391+00:00",
+"2023-07-21T17:08:02.231391Z",
 "metadata":
 {
 "@context":
@@ -38921,7 +38921,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.209140+00:00",
+"2023-07-28T17:27:04.209140Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-01-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -38933,7 +38933,7 @@
 "blob":
 "cc5818fc-6a08-4286-b3d3-e6c94fe09737",
 "created":
-"2023-07-21T17:08:51.391264+00:00",
+"2023-07-21T17:08:51.391264Z",
 "metadata":
 {
 "@context":
@@ -39189,7 +39189,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.356933+00:00",
+"2023-07-28T17:27:04.356933Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-03-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -39201,7 +39201,7 @@
 "blob":
 "c74ac719-16c4-479a-9c58-ef4f3585b77a",
 "created":
-"2023-07-21T17:08:55.655841+00:00",
+"2023-07-21T17:08:55.655841Z",
 "metadata":
 {
 "@context":
@@ -39457,7 +39457,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.427596+00:00",
+"2023-07-28T17:27:04.427596Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-07-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -39469,7 +39469,7 @@
 "blob":
 "33d59d41-4193-41a8-b8b2-16235684857a",
 "created":
-"2023-07-21T17:08:51.711248+00:00",
+"2023-07-21T17:08:51.711248Z",
 "metadata":
 {
 "@context":
@@ -39725,7 +39725,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.421154+00:00",
+"2023-07-28T17:27:04.421154Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-10-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -39737,7 +39737,7 @@
 "blob":
 "28aa9c9d-e853-4231-933d-c11818b73694",
 "created":
-"2023-07-21T17:08:54.649004+00:00",
+"2023-07-21T17:08:54.649004Z",
 "metadata":
 {
 "@context":
@@ -39993,7 +39993,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.363238+00:00",
+"2023-07-28T17:27:04.363238Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-11-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -40005,7 +40005,7 @@
 "blob":
 "b1731eff-0e9f-4550-8049-54dacd3fbf0f",
 "created":
-"2023-07-21T17:09:00.841882+00:00",
+"2023-07-21T17:09:00.841882Z",
 "metadata":
 {
 "@context":
@@ -40261,7 +40261,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.369736+00:00",
+"2023-07-28T17:27:04.369736Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-12-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -40273,7 +40273,7 @@
 "blob":
 "345b7cd2-240d-4686-b1cc-64258b3fdd49",
 "created":
-"2023-07-21T17:10:34.591414+00:00",
+"2023-07-21T17:10:34.591414Z",
 "metadata":
 {
 "@context":
@@ -40529,7 +40529,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.375743+00:00",
+"2023-07-28T17:27:04.375743Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-13-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -40541,7 +40541,7 @@
 "blob":
 "ee47d3e0-5d0e-49fb-9e94-d0d77e70f6db",
 "created":
-"2023-07-21T17:10:35.578465+00:00",
+"2023-07-21T17:10:35.578465Z",
 "metadata":
 {
 "@context":
@@ -40797,7 +40797,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.491641+00:00",
+"2023-07-28T17:27:04.491641Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-14-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -40809,7 +40809,7 @@
 "blob":
 "d0fc1be1-e422-4ef2-ad7e-867e106b62e2",
 "created":
-"2023-07-21T17:10:33.944361+00:00",
+"2023-07-21T17:10:33.944361Z",
 "metadata":
 {
 "@context":
@@ -41065,7 +41065,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.434352+00:00",
+"2023-07-28T17:27:04.434352Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-16-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -41077,7 +41077,7 @@
 "blob":
 "cb995cd9-6416-4a8b-9f70-3c5daf41c5ee",
 "created":
-"2023-07-21T17:10:27.904802+00:00",
+"2023-07-21T17:10:27.904802Z",
 "metadata":
 {
 "@context":
@@ -41333,7 +41333,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.484546+00:00",
+"2023-07-28T17:27:04.484546Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-17-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -41345,7 +41345,7 @@
 "blob":
 "16ffd493-2317-4c10-9c87-394c2df5db8a",
 "created":
-"2023-07-21T17:10:24.230565+00:00",
+"2023-07-21T17:10:24.230565Z",
 "metadata":
 {
 "@context":
@@ -41601,7 +41601,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.476407+00:00",
+"2023-07-28T17:27:04.476407Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-18-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -41613,7 +41613,7 @@
 "blob":
 "d25f6faf-333a-4cf7-95f6-f6e7dbb5e220",
 "created":
-"2023-07-21T17:11:35.620722+00:00",
+"2023-07-21T17:11:35.620722Z",
 "metadata":
 {
 "@context":
@@ -41869,7 +41869,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.505224+00:00",
+"2023-07-28T17:27:04.505224Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-19-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -41881,7 +41881,7 @@
 "blob":
 "9848da80-955c-41f8-a33e-9d5036ec11fe",
 "created":
-"2023-07-21T17:11:51.980242+00:00",
+"2023-07-21T17:11:51.980242Z",
 "metadata":
 {
 "@context":
@@ -42137,7 +42137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.441038+00:00",
+"2023-07-28T17:27:04.441038Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-20-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -42149,7 +42149,7 @@
 "blob":
 "899457af-277b-463a-84bc-c0f789384e00",
 "created":
-"2023-07-21T17:12:00.829242+00:00",
+"2023-07-21T17:12:00.829242Z",
 "metadata":
 {
 "@context":
@@ -42405,7 +42405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.566283+00:00",
+"2023-07-28T17:27:04.566283Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-21-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -42417,7 +42417,7 @@
 "blob":
 "ccfe6352-0019-43a9-a4e6-9f6f062f3963",
 "created":
-"2023-07-21T17:12:00.064262+00:00",
+"2023-07-21T17:12:00.064262Z",
 "metadata":
 {
 "@context":
@@ -42673,7 +42673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.511548+00:00",
+"2023-07-28T17:27:04.511548Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-24-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -42685,7 +42685,7 @@
 "blob":
 "a12bf90e-7122-4334-b121-48ef13c66e74",
 "created":
-"2023-07-21T17:11:58.630367+00:00",
+"2023-07-21T17:11:58.630367Z",
 "metadata":
 {
 "@context":
@@ -42941,7 +42941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.560118+00:00",
+"2023-07-28T17:27:04.560118Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-25-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -42953,7 +42953,7 @@
 "blob":
 "22317870-f182-4e41-b9df-888a5f79fc49",
 "created":
-"2023-07-21T17:13:05.282070+00:00",
+"2023-07-21T17:13:05.282070Z",
 "metadata":
 {
 "@context":
@@ -43209,7 +43209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.517880+00:00",
+"2023-07-28T17:27:04.517880Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-26-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -43221,7 +43221,7 @@
 "blob":
 "ee2312ca-6fd1-4767-9bbc-87009f9bdfdd",
 "created":
-"2023-07-21T17:14:14.316881+00:00",
+"2023-07-21T17:14:14.316881Z",
 "metadata":
 {
 "@context":
@@ -43477,7 +43477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.532200+00:00",
+"2023-07-28T17:27:04.532200Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-27-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -43489,7 +43489,7 @@
 "blob":
 "895f86b0-f6cf-4915-b07a-6b040bcf37db",
 "created":
-"2023-07-21T17:13:45.612150+00:00",
+"2023-07-21T17:13:45.612150Z",
 "metadata":
 {
 "@context":
@@ -43745,7 +43745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.454957+00:00",
+"2023-07-28T17:27:04.454957Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-28-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -43757,7 +43757,7 @@
 "blob":
 "923df1fc-f8f1-46c8-8bd3-a445942175cb",
 "created":
-"2023-07-21T17:13:46.802155+00:00",
+"2023-07-21T17:13:46.802155Z",
 "metadata":
 {
 "@context":
@@ -44013,7 +44013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.572545+00:00",
+"2023-07-28T17:27:04.572545Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-07-31-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -44025,7 +44025,7 @@
 "blob":
 "fba20f9f-139a-4e14-ad65-24776937663f",
 "created":
-"2023-07-21T17:13:56.934468+00:00",
+"2023-07-21T17:13:56.934468Z",
 "metadata":
 {
 "@context":
@@ -44281,7 +44281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.580794+00:00",
+"2023-07-28T17:27:04.580794Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-01-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -44293,7 +44293,7 @@
 "blob":
 "7cdbeea2-26f8-4c66-b25a-344b7fdbb13c",
 "created":
-"2023-07-21T17:14:00.593532+00:00",
+"2023-07-21T17:14:00.593532Z",
 "metadata":
 {
 "@context":
@@ -44549,7 +44549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.525808+00:00",
+"2023-07-28T17:27:04.525808Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-02-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -44561,7 +44561,7 @@
 "blob":
 "00363ae6-c781-435c-9c9a-243273382c00",
 "created":
-"2023-07-21T17:15:29.544678+00:00",
+"2023-07-21T17:15:29.544678Z",
 "metadata":
 {
 "@context":
@@ -44817,7 +44817,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.462052+00:00",
+"2023-07-28T17:27:04.462052Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-03-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -44829,7 +44829,7 @@
 "blob":
 "f7b931f4-fa55-4666-9018-92249a8c86b2",
 "created":
-"2023-07-21T17:15:34.564581+00:00",
+"2023-07-21T17:15:34.564581Z",
 "metadata":
 {
 "@context":
@@ -45085,7 +45085,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.539360+00:00",
+"2023-07-28T17:27:04.539360Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-04-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -45097,7 +45097,7 @@
 "blob":
 "fa580f70-dd39-423b-98bf-9e7418362467",
 "created":
-"2023-07-21T17:16:00.548834+00:00",
+"2023-07-21T17:16:00.548834Z",
 "metadata":
 {
 "@context":
@@ -45353,7 +45353,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.382622+00:00",
+"2023-07-28T17:27:04.382622Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-06-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -45365,7 +45365,7 @@
 "blob":
 "9723b556-40f7-4c43-be88-461b3a8831ea",
 "created":
-"2023-07-21T17:16:12.856679+00:00",
+"2023-07-21T17:16:12.856679Z",
 "metadata":
 {
 "@context":
@@ -45621,7 +45621,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.400869+00:00",
+"2023-07-28T17:27:04.400869Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-07-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -45633,7 +45633,7 @@
 "blob":
 "96cb0027-b14e-4ba4-8bbc-a0fd36ab2d82",
 "created":
-"2023-07-21T17:16:03.060596+00:00",
+"2023-07-21T17:16:03.060596Z",
 "metadata":
 {
 "@context":
@@ -45889,7 +45889,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.592685+00:00",
+"2023-07-28T17:27:04.592685Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-08-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -45901,7 +45901,7 @@
 "blob":
 "9ea7d701-4fdf-4de7-a473-a1e186f217a6",
 "created":
-"2023-07-21T17:16:41.104627+00:00",
+"2023-07-21T17:16:41.104627Z",
 "metadata":
 {
 "@context":
@@ -46157,7 +46157,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.407817+00:00",
+"2023-07-28T17:27:04.407817Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-09-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -46169,7 +46169,7 @@
 "blob":
 "2ef8acb3-9b6d-4b67-947d-44ee49be6c35",
 "created":
-"2023-07-21T17:16:10.820220+00:00",
+"2023-07-21T17:16:10.820220Z",
 "metadata":
 {
 "@context":
@@ -46425,7 +46425,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.391840+00:00",
+"2023-07-28T17:27:04.391840Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-10-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -46437,7 +46437,7 @@
 "blob":
 "0d64cc4a-e00e-4a3c-b317-9727e2e3860a",
 "created":
-"2023-07-21T17:17:51.720626+00:00",
+"2023-07-21T17:17:51.720626Z",
 "metadata":
 {
 "@context":
@@ -46693,7 +46693,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.553902+00:00",
+"2023-07-28T17:27:04.553902Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-12-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -46705,7 +46705,7 @@
 "blob":
 "199701d6-c025-4b0f-b258-929c85237774",
 "created":
-"2023-07-21T17:17:23.201504+00:00",
+"2023-07-21T17:17:23.201504Z",
 "metadata":
 {
 "@context":
@@ -46961,7 +46961,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.547151+00:00",
+"2023-07-28T17:27:04.547151Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-14-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -46973,7 +46973,7 @@
 "blob":
 "60e12bbb-aa76-4752-8eae-eb1d67081413",
 "created":
-"2023-07-21T17:17:34.789447+00:00",
+"2023-07-21T17:17:34.789447Z",
 "metadata":
 {
 "@context":
@@ -47229,7 +47229,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.600068+00:00",
+"2023-07-28T17:27:04.600068Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-15-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -47241,7 +47241,7 @@
 "blob":
 "4f29b2bb-3b56-44b1-b725-9bfc49c85a48",
 "created":
-"2023-07-21T17:17:30.120340+00:00",
+"2023-07-21T17:17:30.120340Z",
 "metadata":
 {
 "@context":
@@ -47497,7 +47497,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.468958+00:00",
+"2023-07-28T17:27:04.468958Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-17-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -47509,7 +47509,7 @@
 "blob":
 "0d6aadf6-ec8e-4b88-9335-685ab816358d",
 "created":
-"2023-07-21T17:17:38.017153+00:00",
+"2023-07-21T17:17:38.017153Z",
 "metadata":
 {
 "@context":
@@ -47765,7 +47765,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.414532+00:00",
+"2023-07-28T17:27:04.414532Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-18-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -47777,7 +47777,7 @@
 "blob":
 "a7d35f00-3a6e-4893-a99d-20897b0d1905",
 "created":
-"2023-07-21T17:18:53.411455+00:00",
+"2023-07-21T17:18:53.411455Z",
 "metadata":
 {
 "@context":
@@ -48033,7 +48033,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.606718+00:00",
+"2023-07-28T17:27:04.606718Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-19-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -48045,7 +48045,7 @@
 "blob":
 "f3736aa6-d18b-4001-8af8-9b5745babb5e",
 "created":
-"2023-07-21T17:19:07.759834+00:00",
+"2023-07-21T17:19:07.759834Z",
 "metadata":
 {
 "@context":
@@ -48301,7 +48301,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.640975+00:00",
+"2023-07-28T17:27:04.640975Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-20-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -48313,7 +48313,7 @@
 "blob":
 "ade9f8e0-3d4c-47f0-aae2-b0aead6e1d91",
 "created":
-"2023-07-21T17:19:29.876377+00:00",
+"2023-07-21T17:19:29.876377Z",
 "metadata":
 {
 "@context":
@@ -48569,7 +48569,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.701068+00:00",
+"2023-07-28T17:27:04.701068Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-21-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -48581,7 +48581,7 @@
 "blob":
 "12d3ca17-e4d7-446f-8f98-d65bbdcb4e8f",
 "created":
-"2023-07-21T17:19:33.778473+00:00",
+"2023-07-21T17:19:33.778473Z",
 "metadata":
 {
 "@context":
@@ -48837,7 +48837,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.739550+00:00",
+"2023-07-28T17:27:04.739550Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-22-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -48849,7 +48849,7 @@
 "blob":
 "bfcb2154-4e14-425f-b78d-dbde1c0a14f8",
 "created":
-"2023-07-21T17:19:25.336224+00:00",
+"2023-07-21T17:19:25.336224Z",
 "metadata":
 {
 "@context":
@@ -49105,7 +49105,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.694512+00:00",
+"2023-07-28T17:27:04.694512Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-23-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -49117,7 +49117,7 @@
 "blob":
 "f852053e-5e56-46c5-8c64-13775f16f651",
 "created":
-"2023-07-21T17:19:50.107726+00:00",
+"2023-07-21T17:19:50.107726Z",
 "metadata":
 {
 "@context":
@@ -49373,7 +49373,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.647374+00:00",
+"2023-07-28T17:27:04.647374Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-24-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -49385,7 +49385,7 @@
 "blob":
 "0196c777-d343-4e0e-a349-af071769b7be",
 "created":
-"2023-07-21T17:21:12.229919+00:00",
+"2023-07-21T17:21:12.229919Z",
 "metadata":
 {
 "@context":
@@ -49641,7 +49641,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.654565+00:00",
+"2023-07-28T17:27:04.654565Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-25-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -49653,7 +49653,7 @@
 "blob":
 "1939e757-875e-4ae2-9f33-6eb50c65a7d8",
 "created":
-"2023-07-21T17:21:00.370190+00:00",
+"2023-07-21T17:21:00.370190Z",
 "metadata":
 {
 "@context":
@@ -49909,7 +49909,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.745875+00:00",
+"2023-07-28T17:27:04.745875Z",
 "path":
 "sub-6/sub-6_ses-mouse-6-session-date-2017-08-31-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -49921,7 +49921,7 @@
 "blob":
 "d1195d89-fc4e-4225-b71b-829281ec31b5",
 "created":
-"2023-07-21T17:20:45.073473+00:00",
+"2023-07-21T17:20:45.073473Z",
 "metadata":
 {
 "@context":
@@ -50137,7 +50137,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.612992+00:00",
+"2023-07-28T17:27:04.612992Z",
 "path":
 "sub-7/sub-7_ses-Mouse-7-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -50149,7 +50149,7 @@
 "blob":
 "b10c9df3-9da8-47ef-94e5-572539675249",
 "created":
-"2023-07-21T17:21:33.552848+00:00",
+"2023-07-21T17:21:33.552848Z",
 "metadata":
 {
 "@context":
@@ -50405,7 +50405,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.661717+00:00",
+"2023-07-28T17:27:04.661717Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-14-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -50417,7 +50417,7 @@
 "blob":
 "94d76fdd-705d-4ec0-9299-079ecb1aef33",
 "created":
-"2023-07-21T17:21:43.902217+00:00",
+"2023-07-21T17:21:43.902217Z",
 "metadata":
 {
 "@context":
@@ -50673,7 +50673,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.621133+00:00",
+"2023-07-28T17:27:04.621133Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-16-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -50685,7 +50685,7 @@
 "blob":
 "7e8dcc74-905f-4e7a-91be-dbbafabc4e77",
 "created":
-"2023-07-21T17:22:54.128386+00:00",
+"2023-07-21T17:22:54.128386Z",
 "metadata":
 {
 "@context":
@@ -50941,7 +50941,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.627759+00:00",
+"2023-07-28T17:27:04.627759Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-17-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -50953,7 +50953,7 @@
 "blob":
 "9db331ab-2c09-4213-9f3c-ee0e552c7d1a",
 "created":
-"2023-07-21T17:23:15.963578+00:00",
+"2023-07-21T17:23:15.963578Z",
 "metadata":
 {
 "@context":
@@ -51209,7 +51209,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.707672+00:00",
+"2023-07-28T17:27:04.707672Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-18-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -51221,7 +51221,7 @@
 "blob":
 "ddba6a8f-f8d3-49c7-8c19-d07a7920cc46",
 "created":
-"2023-07-21T17:23:05.944225+00:00",
+"2023-07-21T17:23:05.944225Z",
 "metadata":
 {
 "@context":
@@ -51477,7 +51477,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.752497+00:00",
+"2023-07-28T17:27:04.752497Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-19-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -51489,7 +51489,7 @@
 "blob":
 "17e33045-68e3-4a09-91db-054a67ba606e",
 "created":
-"2023-07-21T17:23:23.554665+00:00",
+"2023-07-21T17:23:23.554665Z",
 "metadata":
 {
 "@context":
@@ -51745,7 +51745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.714093+00:00",
+"2023-07-28T17:27:04.714093Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-20-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -51757,7 +51757,7 @@
 "blob":
 "a737c4b5-4473-4b60-a6e5-5e84e93615e5",
 "created":
-"2023-07-21T17:23:26.966008+00:00",
+"2023-07-21T17:23:26.966008Z",
 "metadata":
 {
 "@context":
@@ -52013,7 +52013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.759804+00:00",
+"2023-07-28T17:27:04.759804Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-21-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -52025,7 +52025,7 @@
 "blob":
 "1faa2478-0c98-42ba-ba8e-9d9c01c36e5d",
 "created":
-"2023-07-21T17:24:30.938805+00:00",
+"2023-07-21T17:24:30.938805Z",
 "metadata":
 {
 "@context":
@@ -52281,7 +52281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.766233+00:00",
+"2023-07-28T17:27:04.766233Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-24-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -52293,7 +52293,7 @@
 "blob":
 "4860d74c-4acf-4a4e-b200-6f32cfe22759",
 "created":
-"2023-07-21T17:24:58.033376+00:00",
+"2023-07-21T17:24:58.033376Z",
 "metadata":
 {
 "@context":
@@ -52549,7 +52549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.720758+00:00",
+"2023-07-28T17:27:04.720758Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-25-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -52561,7 +52561,7 @@
 "blob":
 "3cadef47-46cd-4c7c-8f8d-0aa8baf44e10",
 "created":
-"2023-07-21T17:24:41.473630+00:00",
+"2023-07-21T17:24:41.473630Z",
 "metadata":
 {
 "@context":
@@ -52817,7 +52817,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.772750+00:00",
+"2023-07-28T17:27:04.772750Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-26-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -52829,7 +52829,7 @@
 "blob":
 "d0e145e6-8a6a-477b-a195-1b2ff42cbb3b",
 "created":
-"2023-07-21T17:25:10.360387+00:00",
+"2023-07-21T17:25:10.360387Z",
 "metadata":
 {
 "@context":
@@ -53085,7 +53085,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.668509+00:00",
+"2023-07-28T17:27:04.668509Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-27-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -53097,7 +53097,7 @@
 "blob":
 "6976b84f-1261-4d37-ac7c-3276291e4ab0",
 "created":
-"2023-07-21T17:24:54.640972+00:00",
+"2023-07-21T17:24:54.640972Z",
 "metadata":
 {
 "@context":
@@ -53353,7 +53353,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.779158+00:00",
+"2023-07-28T17:27:04.779158Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-28-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -53365,7 +53365,7 @@
 "blob":
 "a6e4eca9-8735-4519-89e4-396d03aa003b",
 "created":
-"2023-07-21T17:25:51.378635+00:00",
+"2023-07-21T17:25:51.378635Z",
 "metadata":
 {
 "@context":
@@ -53621,7 +53621,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.785198+00:00",
+"2023-07-28T17:27:04.785198Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-07-31-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -53633,7 +53633,7 @@
 "blob":
 "db164ed8-0839-4ac6-8a93-f573b71a0086",
 "created":
-"2023-07-21T17:25:50.639493+00:00",
+"2023-07-21T17:25:50.639493Z",
 "metadata":
 {
 "@context":
@@ -53889,7 +53889,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.674821+00:00",
+"2023-07-28T17:27:04.674821Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-01-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -53901,7 +53901,7 @@
 "blob":
 "a85ac5ac-5dcb-47dc-95aa-dfdbc34eb031",
 "created":
-"2023-07-21T17:26:29.712349+00:00",
+"2023-07-21T17:26:29.712349Z",
 "metadata":
 {
 "@context":
@@ -54157,7 +54157,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.634395+00:00",
+"2023-07-28T17:27:04.634395Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-02-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -54169,7 +54169,7 @@
 "blob":
 "3c87b851-4011-4cfa-a670-38f72fbb5fe9",
 "created":
-"2023-07-21T17:26:45.738098+00:00",
+"2023-07-21T17:26:45.738098Z",
 "metadata":
 {
 "@context":
@@ -54425,7 +54425,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.726853+00:00",
+"2023-07-28T17:27:04.726853Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-06-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -54437,7 +54437,7 @@
 "blob":
 "d76b41e1-88e2-4dae-9eb0-541003c9e937",
 "created":
-"2023-07-21T17:26:33.461711+00:00",
+"2023-07-21T17:26:33.461711Z",
 "metadata":
 {
 "@context":
@@ -54693,7 +54693,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.681217+00:00",
+"2023-07-28T17:27:04.681217Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-07-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -54705,7 +54705,7 @@
 "blob":
 "3eeb3025-62bc-4d5e-9be9-29e3d3e4e57c",
 "created":
-"2023-07-21T17:27:52.001255+00:00",
+"2023-07-21T17:27:52.001255Z",
 "metadata":
 {
 "@context":
@@ -54961,7 +54961,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.687638+00:00",
+"2023-07-28T17:27:04.687638Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-08-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -54973,7 +54973,7 @@
 "blob":
 "52d8e8f2-2466-4ffc-9cfa-8dd21e0c542b",
 "created":
-"2023-07-21T17:27:48.397581+00:00",
+"2023-07-21T17:27:48.397581Z",
 "metadata":
 {
 "@context":
@@ -55229,7 +55229,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.807714+00:00",
+"2023-07-28T17:27:04.807714Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-09-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -55241,7 +55241,7 @@
 "blob":
 "37f27ce6-0c6a-49b3-9aaa-d1f97c367403",
 "created":
-"2023-07-21T17:27:46.867055+00:00",
+"2023-07-21T17:27:46.867055Z",
 "metadata":
 {
 "@context":
@@ -55497,7 +55497,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.801522+00:00",
+"2023-07-28T17:27:04.801522Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-10-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -55509,7 +55509,7 @@
 "blob":
 "d53683fe-b58a-4005-9ea0-5a8ca36307db",
 "created":
-"2023-07-21T17:27:38.021576+00:00",
+"2023-07-21T17:27:38.021576Z",
 "metadata":
 {
 "@context":
@@ -55765,7 +55765,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.733320+00:00",
+"2023-07-28T17:27:04.733320Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-11-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -55777,7 +55777,7 @@
 "blob":
 "a3d5d573-e802-497a-bd9d-399dc6ce4b0b",
 "created":
-"2023-07-21T17:27:41.533660+00:00",
+"2023-07-21T17:27:41.533660Z",
 "metadata":
 {
 "@context":
@@ -56033,7 +56033,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.794294+00:00",
+"2023-07-28T17:27:04.794294Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-12-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -56045,7 +56045,7 @@
 "blob":
 "0c3023a0-4608-4014-a551-f235963cea8f",
 "created":
-"2023-07-21T17:29:29.473564+00:00",
+"2023-07-21T17:29:29.473564Z",
 "metadata":
 {
 "@context":
@@ -56301,7 +56301,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.813872+00:00",
+"2023-07-28T17:27:04.813872Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-14-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -56313,7 +56313,7 @@
 "blob":
 "ecbc34d1-a4e9-46b0-b802-a11cd509555c",
 "created":
-"2023-07-21T17:29:48.863366+00:00",
+"2023-07-21T17:29:48.863366Z",
 "metadata":
 {
 "@context":
@@ -56569,7 +56569,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.911586+00:00",
+"2023-07-28T17:27:04.911586Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-15-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -56581,7 +56581,7 @@
 "blob":
 "4ab18c9a-9def-4a95-888b-e26a539c2f0f",
 "created":
-"2023-07-21T17:29:49.653101+00:00",
+"2023-07-21T17:29:49.653101Z",
 "metadata":
 {
 "@context":
@@ -56837,7 +56837,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.966720+00:00",
+"2023-07-28T17:27:04.966720Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-16-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -56849,7 +56849,7 @@
 "blob":
 "0672754b-9e67-4c77-9f0d-3506fbe89bdb",
 "created":
-"2023-07-21T17:29:58.134030+00:00",
+"2023-07-21T17:29:58.134030Z",
 "metadata":
 {
 "@context":
@@ -57105,7 +57105,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.917647+00:00",
+"2023-07-28T17:27:04.917647Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-17-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -57117,7 +57117,7 @@
 "blob":
 "95d51eff-58cf-476b-9318-261ea82642cb",
 "created":
-"2023-07-21T17:29:44.440490+00:00",
+"2023-07-21T17:29:44.440490Z",
 "metadata":
 {
 "@context":
@@ -57373,7 +57373,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.864908+00:00",
+"2023-07-28T17:27:04.864908Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-18-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -57385,7 +57385,7 @@
 "blob":
 "133287e3-7b41-4819-960f-9c0599850b2d",
 "created":
-"2023-07-21T17:30:49.861830+00:00",
+"2023-07-21T17:30:49.861830Z",
 "metadata":
 {
 "@context":
@@ -57641,7 +57641,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.973109+00:00",
+"2023-07-28T17:27:04.973109Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-19-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -57653,7 +57653,7 @@
 "blob":
 "33a2d666-82c9-4e26-b812-8efa08c011ac",
 "created":
-"2023-07-21T17:31:53.533664+00:00",
+"2023-07-21T17:31:53.533664Z",
 "metadata":
 {
 "@context":
@@ -57909,7 +57909,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.890433+00:00",
+"2023-07-28T17:27:04.890433Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-20-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -57921,7 +57921,7 @@
 "blob":
 "339fe698-5faf-4d76-9436-1688592fa817",
 "created":
-"2023-07-21T17:31:49.399392+00:00",
+"2023-07-21T17:31:49.399392Z",
 "metadata":
 {
 "@context":
@@ -58177,7 +58177,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.876284+00:00",
+"2023-07-28T17:27:04.876284Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-21-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -58189,7 +58189,7 @@
 "blob":
 "721a57fe-f088-4531-9765-f5686ac45895",
 "created":
-"2023-07-21T17:31:56.158500+00:00",
+"2023-07-21T17:31:56.158500Z",
 "metadata":
 {
 "@context":
@@ -58445,7 +58445,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.978965+00:00",
+"2023-07-28T17:27:04.978965Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-22-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -58457,7 +58457,7 @@
 "blob":
 "443dc188-0eaf-42a3-9fdc-ee9e08484d2f",
 "created":
-"2023-07-21T17:31:52.098989+00:00",
+"2023-07-21T17:31:52.098989Z",
 "metadata":
 {
 "@context":
@@ -58713,7 +58713,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.883777+00:00",
+"2023-07-28T17:27:04.883777Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-23-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -58725,7 +58725,7 @@
 "blob":
 "d6ac30f1-52ae-4678-ac85-d52231707f7a",
 "created":
-"2023-07-21T17:32:04.824373+00:00",
+"2023-07-21T17:32:04.824373Z",
 "metadata":
 {
 "@context":
@@ -58981,7 +58981,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.923989+00:00",
+"2023-07-28T17:27:04.923989Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-24-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -58993,7 +58993,7 @@
 "blob":
 "2cafc8a5-e897-4609-acb6-bb58e78b0868",
 "created":
-"2023-07-21T17:33:11.215987+00:00",
+"2023-07-21T17:33:11.215987Z",
 "metadata":
 {
 "@context":
@@ -59249,7 +59249,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.929906+00:00",
+"2023-07-28T17:27:04.929906Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-25-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -59261,7 +59261,7 @@
 "blob":
 "cd78551e-47ed-4415-b5ef-b46884a26e49",
 "created":
-"2023-07-21T17:33:52.004928+00:00",
+"2023-07-21T17:33:52.004928Z",
 "metadata":
 {
 "@context":
@@ -59517,7 +59517,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.897806+00:00",
+"2023-07-28T17:27:04.897806Z",
 "path":
 "sub-7/sub-7_ses-mouse-7-session-date-2017-08-30-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -59529,7 +59529,7 @@
 "blob":
 "b2e45469-aca3-49df-bb9a-b0646d1f3ae5",
 "created":
-"2023-07-21T17:33:00.079997+00:00",
+"2023-07-21T17:33:00.079997Z",
 "metadata":
 {
 "@context":
@@ -59745,7 +59745,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.984743+00:00",
+"2023-07-28T17:27:04.984743Z",
 "path":
 "sub-8/sub-8_ses-Mouse-8-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -59757,7 +59757,7 @@
 "blob":
 "a0a63e0a-c8ca-4309-9394-59fcb147fcc0",
 "created":
-"2023-07-21T17:33:14.516497+00:00",
+"2023-07-21T17:33:14.516497Z",
 "metadata":
 {
 "@context":
@@ -60013,7 +60013,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.992166+00:00",
+"2023-07-28T17:27:04.992166Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-07-25-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -60025,7 +60025,7 @@
 "blob":
 "44b7e452-9459-4a7b-912c-cba8b466744f",
 "created":
-"2023-07-21T17:33:15.446495+00:00",
+"2023-07-21T17:33:15.446495Z",
 "metadata":
 {
 "@context":
@@ -60281,7 +60281,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.935829+00:00",
+"2023-07-28T17:27:04.935829Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-07-26-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -60293,7 +60293,7 @@
 "blob":
 "ce476af2-0636-4989-b870-b5441160008d",
 "created":
-"2023-07-21T17:34:32.500155+00:00",
+"2023-07-21T17:34:32.500155Z",
 "metadata":
 {
 "@context":
@@ -60549,7 +60549,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.820245+00:00",
+"2023-07-28T17:27:04.820245Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-07-27-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -60561,7 +60561,7 @@
 "blob":
 "25065ea8-8a12-46b4-8b4c-57d7a9ee2c74",
 "created":
-"2023-07-21T17:34:57.393278+00:00",
+"2023-07-21T17:34:57.393278Z",
 "metadata":
 {
 "@context":
@@ -60817,7 +60817,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.845047+00:00",
+"2023-07-28T17:27:04.845047Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-07-28-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -60829,7 +60829,7 @@
 "blob":
 "430cba9d-c6f7-496b-a593-da04c2440bc5",
 "created":
-"2023-07-21T17:34:54.632704+00:00",
+"2023-07-21T17:34:54.632704Z",
 "metadata":
 {
 "@context":
@@ -61085,7 +61085,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.833803+00:00",
+"2023-07-28T17:27:04.833803Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-07-31-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -61097,7 +61097,7 @@
 "blob":
 "a7ffcbbc-7923-4874-bb42-192ab551f50f",
 "created":
-"2023-07-21T17:34:39.029102+00:00",
+"2023-07-21T17:34:39.029102Z",
 "metadata":
 {
 "@context":
@@ -61353,7 +61353,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.827021+00:00",
+"2023-07-28T17:27:04.827021Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-01-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -61365,7 +61365,7 @@
 "blob":
 "08d653a6-ec24-4613-b922-3b26f1fe571e",
 "created":
-"2023-07-21T17:35:18.514405+00:00",
+"2023-07-21T17:35:18.514405Z",
 "metadata":
 {
 "@context":
@@ -61621,7 +61621,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.851440+00:00",
+"2023-07-28T17:27:04.851440Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-02-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -61633,7 +61633,7 @@
 "blob":
 "a0fd2fee-391b-4e78-9e3f-bcd6af1f3c9a",
 "created":
-"2023-07-21T17:36:18.905471+00:00",
+"2023-07-21T17:36:18.905471Z",
 "metadata":
 {
 "@context":
@@ -61889,7 +61889,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.942131+00:00",
+"2023-07-28T17:27:04.942131Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-03-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -61901,7 +61901,7 @@
 "blob":
 "afc55e7e-4887-4d74-a14c-86d7bfa9dfe4",
 "created":
-"2023-07-21T17:36:04.127360+00:00",
+"2023-07-21T17:36:04.127360Z",
 "metadata":
 {
 "@context":
@@ -62157,7 +62157,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.006987+00:00",
+"2023-07-28T17:27:05.006987Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-04-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -62169,7 +62169,7 @@
 "blob":
 "29ce2b56-c2ee-4ffd-883f-791036213cf0",
 "created":
-"2023-07-21T17:36:24.827902+00:00",
+"2023-07-21T17:36:24.827902Z",
 "metadata":
 {
 "@context":
@@ -62425,7 +62425,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.858074+00:00",
+"2023-07-28T17:27:04.858074Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-06-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -62437,7 +62437,7 @@
 "blob":
 "092b825c-4896-43a8-99c0-c6eed82c538d",
 "created":
-"2023-07-21T17:36:09.599289+00:00",
+"2023-07-21T17:36:09.599289Z",
 "metadata":
 {
 "@context":
@@ -62693,7 +62693,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.905142+00:00",
+"2023-07-28T17:27:04.905142Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-07-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -62705,7 +62705,7 @@
 "blob":
 "b753cd84-3e90-47dd-883f-ed7dee99512e",
 "created":
-"2023-07-21T17:36:18.313791+00:00",
+"2023-07-21T17:36:18.313791Z",
 "metadata":
 {
 "@context":
@@ -62961,7 +62961,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.013648+00:00",
+"2023-07-28T17:27:05.013648Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-08-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -62973,7 +62973,7 @@
 "blob":
 "e02092d9-8f5c-4ff5-bb8c-7a2da55a394b",
 "created":
-"2023-07-21T17:37:31.554333+00:00",
+"2023-07-21T17:37:31.554333Z",
 "metadata":
 {
 "@context":
@@ -63229,7 +63229,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.954278+00:00",
+"2023-07-28T17:27:04.954278Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-09-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -63241,7 +63241,7 @@
 "blob":
 "6a1d2192-a12c-4f44-b844-70a8d2e86180",
 "created":
-"2023-07-21T17:37:25.969913+00:00",
+"2023-07-21T17:37:25.969913Z",
 "metadata":
 {
 "@context":
@@ -63497,7 +63497,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.948365+00:00",
+"2023-07-28T17:27:04.948365Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-10-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -63509,7 +63509,7 @@
 "blob":
 "7355515e-78fd-4f88-ac40-7c78b188925e",
 "created":
-"2023-07-21T17:38:06.850538+00:00",
+"2023-07-21T17:38:06.850538Z",
 "metadata":
 {
 "@context":
@@ -63765,7 +63765,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.020011+00:00",
+"2023-07-28T17:27:05.020011Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-11-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -63777,7 +63777,7 @@
 "blob":
 "e3db7ead-e69b-4692-a339-554d8538fb4e",
 "created":
-"2023-07-21T17:38:19.490548+00:00",
+"2023-07-21T17:38:19.490548Z",
 "metadata":
 {
 "@context":
@@ -64033,7 +64033,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:04.960717+00:00",
+"2023-07-28T17:27:04.960717Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-12-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -64045,7 +64045,7 @@
 "blob":
 "29e3c89b-5461-4d15-bd86-fa7041836999",
 "created":
-"2023-07-21T17:38:18.832214+00:00",
+"2023-07-21T17:38:18.832214Z",
 "metadata":
 {
 "@context":
@@ -64301,7 +64301,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.026080+00:00",
+"2023-07-28T17:27:05.026080Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-14-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -64313,7 +64313,7 @@
 "blob":
 "7a2f4181-2871-46d5-8292-cfbcab6afa16",
 "created":
-"2023-07-21T17:38:59.451709+00:00",
+"2023-07-21T17:38:59.451709Z",
 "metadata":
 {
 "@context":
@@ -64569,7 +64569,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.067824+00:00",
+"2023-07-28T17:27:05.067824Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-15-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -64581,7 +64581,7 @@
 "blob":
 "8bf56095-35f3-49c6-911e-746d807405a2",
 "created":
-"2023-07-21T17:38:55.773876+00:00",
+"2023-07-21T17:38:55.773876Z",
 "metadata":
 {
 "@context":
@@ -64837,7 +64837,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.035958+00:00",
+"2023-07-28T17:27:05.035958Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-16-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -64849,7 +64849,7 @@
 "blob":
 "a7068a84-64da-4d25-8bec-68444cdfa6ae",
 "created":
-"2023-07-21T17:40:31.992836+00:00",
+"2023-07-21T17:40:31.992836Z",
 "metadata":
 {
 "@context":
@@ -65105,7 +65105,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.174491+00:00",
+"2023-07-28T17:27:05.174491Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-17-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -65117,7 +65117,7 @@
 "blob":
 "2b0a7d40-c31c-4396-b6ae-689681f3e61f",
 "created":
-"2023-07-21T17:39:13.980831+00:00",
+"2023-07-21T17:39:13.980831Z",
 "metadata":
 {
 "@context":
@@ -65373,7 +65373,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.079055+00:00",
+"2023-07-28T17:27:05.079055Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-18-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -65385,7 +65385,7 @@
 "blob":
 "0c464fdd-c7d4-4e02-9d85-3f427325c6b3",
 "created":
-"2023-07-21T17:40:22.593525+00:00",
+"2023-07-21T17:40:22.593525Z",
 "metadata":
 {
 "@context":
@@ -65641,7 +65641,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.085659+00:00",
+"2023-07-28T17:27:05.085659Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-19-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -65653,7 +65653,7 @@
 "blob":
 "89169264-2920-40d6-b55f-8ff72ec5ca27",
 "created":
-"2023-07-21T17:40:18.573862+00:00",
+"2023-07-21T17:40:18.573862Z",
 "metadata":
 {
 "@context":
@@ -65909,7 +65909,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.129860+00:00",
+"2023-07-28T17:27:05.129860Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-20-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -65921,7 +65921,7 @@
 "blob":
 "55e7fc28-2f15-4a0d-ab8d-d83b1728b0bb",
 "created":
-"2023-07-21T17:40:19.435095+00:00",
+"2023-07-21T17:40:19.435095Z",
 "metadata":
 {
 "@context":
@@ -66177,7 +66177,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.044862+00:00",
+"2023-07-28T17:27:05.044862Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-21-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -66189,7 +66189,7 @@
 "blob":
 "8310f16e-8488-48a8-af55-7f6fe02b6810",
 "created":
-"2023-07-21T17:40:24.273343+00:00",
+"2023-07-21T17:40:24.273343Z",
 "metadata":
 {
 "@context":
@@ -66445,7 +66445,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.052373+00:00",
+"2023-07-28T17:27:05.052373Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-22-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -66457,7 +66457,7 @@
 "blob":
 "8a74c07d-72c0-4e6d-b611-2ac82d5ebdbb",
 "created":
-"2023-07-21T17:42:20.786792+00:00",
+"2023-07-21T17:42:20.786792Z",
 "metadata":
 {
 "@context":
@@ -66713,7 +66713,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.136205+00:00",
+"2023-07-28T17:27:05.136205Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-23-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -66725,7 +66725,7 @@
 "blob":
 "d622b7ae-7104-42fc-a1e5-ca1f2f18f3ad",
 "created":
-"2023-07-21T17:42:22.545771+00:00",
+"2023-07-21T17:42:22.545771Z",
 "metadata":
 {
 "@context":
@@ -66981,7 +66981,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.091768+00:00",
+"2023-07-28T17:27:05.091768Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-24-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -66993,7 +66993,7 @@
 "blob":
 "e01a08a5-69c1-4838-9879-99c6029328eb",
 "created":
-"2023-07-21T17:42:28.746886+00:00",
+"2023-07-21T17:42:28.746886Z",
 "metadata":
 {
 "@context":
@@ -67249,7 +67249,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.181684+00:00",
+"2023-07-28T17:27:05.181684Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-25-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -67261,7 +67261,7 @@
 "blob":
 "71a7c504-f444-4082-8d04-3da87af42d2c",
 "created":
-"2023-07-21T17:42:36.803823+00:00",
+"2023-07-21T17:42:36.803823Z",
 "metadata":
 {
 "@context":
@@ -67517,7 +67517,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.151674+00:00",
+"2023-07-28T17:27:05.151674Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-30-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -67529,7 +67529,7 @@
 "blob":
 "fcbc0799-6af0-447c-822a-9b567cb76ba8",
 "created":
-"2023-07-21T17:42:26.548721+00:00",
+"2023-07-21T17:42:26.548721Z",
 "metadata":
 {
 "@context":
@@ -67785,7 +67785,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.143400+00:00",
+"2023-07-28T17:27:05.143400Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-08-31-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -67797,7 +67797,7 @@
 "blob":
 "409272dc-5c56-4d48-90bd-f3472b85ce54",
 "created":
-"2023-07-21T17:44:56.955273+00:00",
+"2023-07-21T17:44:56.955273Z",
 "metadata":
 {
 "@context":
@@ -68053,7 +68053,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.194308+00:00",
+"2023-07-28T17:27:05.194308Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-04-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -68065,7 +68065,7 @@
 "blob":
 "781d4853-32fc-4199-ae88-e3c25938ef51",
 "created":
-"2023-07-21T17:44:41.429741+00:00",
+"2023-07-21T17:44:41.429741Z",
 "metadata":
 {
 "@context":
@@ -68321,7 +68321,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.161332+00:00",
+"2023-07-28T17:27:05.161332Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-05-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -68333,7 +68333,7 @@
 "blob":
 "c01305c2-2b9c-4b7b-beb5-a5e623861c6b",
 "created":
-"2023-07-21T17:44:53.519376+00:00",
+"2023-07-21T17:44:53.519376Z",
 "metadata":
 {
 "@context":
@@ -68589,7 +68589,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.110309+00:00",
+"2023-07-28T17:27:05.110309Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-06-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -68601,7 +68601,7 @@
 "blob":
 "01d35f87-479a-455c-96bb-a0c36c4c9c21",
 "created":
-"2023-07-21T17:44:41.381001+00:00",
+"2023-07-21T17:44:41.381001Z",
 "metadata":
 {
 "@context":
@@ -68857,7 +68857,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.103708+00:00",
+"2023-07-28T17:27:05.103708Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-07-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -68869,7 +68869,7 @@
 "blob":
 "393b66f2-5225-4032-9ed2-3af8287f420b",
 "created":
-"2023-07-21T17:44:37.489948+00:00",
+"2023-07-21T17:44:37.489948Z",
 "metadata":
 {
 "@context":
@@ -69125,7 +69125,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.188218+00:00",
+"2023-07-28T17:27:05.188218Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-08-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -69137,7 +69137,7 @@
 "blob":
 "94a8b165-7435-41f6-9361-0bd79f7fc5e5",
 "created":
-"2023-07-21T17:46:47.903085+00:00",
+"2023-07-21T17:46:47.903085Z",
 "metadata":
 {
 "@context":
@@ -69393,7 +69393,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.116786+00:00",
+"2023-07-28T17:27:05.116786Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-10-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -69405,7 +69405,7 @@
 "blob":
 "e2ea12eb-ddbb-46ff-b1bb-57f287912db7",
 "created":
-"2023-07-21T17:46:43.398161+00:00",
+"2023-07-21T17:46:43.398161Z",
 "metadata":
 {
 "@context":
@@ -69661,7 +69661,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.200802+00:00",
+"2023-07-28T17:27:05.200802Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-11-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -69673,7 +69673,7 @@
 "blob":
 "6e5ae26b-850d-4edb-88be-9971812494cd",
 "created":
-"2023-07-21T17:46:52.455261+00:00",
+"2023-07-21T17:46:52.455261Z",
 "metadata":
 {
 "@context":
@@ -69929,7 +69929,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.168069+00:00",
+"2023-07-28T17:27:05.168069Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-12-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -69941,7 +69941,7 @@
 "blob":
 "971ba0b6-dd24-4d8c-bc51-04b95e105305",
 "created":
-"2023-07-21T17:46:53.997361+00:00",
+"2023-07-21T17:46:53.997361Z",
 "metadata":
 {
 "@context":
@@ -70197,7 +70197,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.207018+00:00",
+"2023-07-28T17:27:05.207018Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-13-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -70209,7 +70209,7 @@
 "blob":
 "a005f701-7605-45f8-b529-5c0cd0ef107a",
 "created":
-"2023-07-21T17:46:54.687085+00:00",
+"2023-07-21T17:46:54.687085Z",
 "metadata":
 {
 "@context":
@@ -70465,7 +70465,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.213018+00:00",
+"2023-07-28T17:27:05.213018Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-14-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -70477,7 +70477,7 @@
 "blob":
 "b4af87cb-4293-4572-8bfa-b956920553c0",
 "created":
-"2023-07-21T17:48:37.912019+00:00",
+"2023-07-21T17:48:37.912019Z",
 "metadata":
 {
 "@context":
@@ -70733,7 +70733,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.228995+00:00",
+"2023-07-28T17:27:05.228995Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-15-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -70745,7 +70745,7 @@
 "blob":
 "4dd6027b-0e2e-4841-91f5-089a3afa3c48",
 "created":
-"2023-07-21T17:48:29.530989+00:00",
+"2023-07-21T17:48:29.530989Z",
 "metadata":
 {
 "@context":
@@ -71001,7 +71001,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.060293+00:00",
+"2023-07-28T17:27:05.060293Z",
 "path":
 "sub-8/sub-8_ses-mouse-8-session-date-2017-09-16-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -71013,7 +71013,7 @@
 "blob":
 "cab6cf81-607d-4c6f-bf51-9231a712a3a0",
 "created":
-"2023-07-21T17:48:00.777595+00:00",
+"2023-07-21T17:48:00.777595Z",
 "metadata":
 {
 "@context":
@@ -71229,7 +71229,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.123236+00:00",
+"2023-07-28T17:27:05.123236Z",
 "path":
 "sub-9/sub-9_ses-Mouse-9-widefield-retinotopy-and-window-vessel_ophys.nwb",
 "size":
@@ -71241,7 +71241,7 @@
 "blob":
 "f1ced9ff-6f28-4c63-86b4-f23d9f084f84",
 "created":
-"2023-07-21T17:48:32.004213+00:00",
+"2023-07-21T17:48:32.004213Z",
 "metadata":
 {
 "@context":
@@ -71497,7 +71497,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.222480+00:00",
+"2023-07-28T17:27:05.222480Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-07-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -71509,7 +71509,7 @@
 "blob":
 "4e05ad14-74a7-48c4-bc54-c485a359c4e8",
 "created":
-"2023-07-21T17:48:53.240739+00:00",
+"2023-07-21T17:48:53.240739Z",
 "metadata":
 {
 "@context":
@@ -71765,7 +71765,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.235422+00:00",
+"2023-07-28T17:27:05.235422Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-08-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -71777,7 +71777,7 @@
 "blob":
 "4e609e50-e81c-44dd-b5dd-3b17dda2c420",
 "created":
-"2023-07-21T17:48:47.977382+00:00",
+"2023-07-21T17:48:47.977382Z",
 "metadata":
 {
 "@context":
@@ -72033,7 +72033,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.304328+00:00",
+"2023-07-28T17:27:05.304328Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-09-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -72045,7 +72045,7 @@
 "blob":
 "a94b4674-d34d-4094-8cde-d8c39c81229c",
 "created":
-"2023-07-21T17:49:50.952495+00:00",
+"2023-07-21T17:49:50.952495Z",
 "metadata":
 {
 "@context":
@@ -72301,7 +72301,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.382560+00:00",
+"2023-07-28T17:27:05.382560Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-10-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -72313,7 +72313,7 @@
 "blob":
 "566dd6bd-a059-45cf-aa3f-73bb9ed1d335",
 "created":
-"2023-07-21T17:50:01.989858+00:00",
+"2023-07-21T17:50:01.989858Z",
 "metadata":
 {
 "@context":
@@ -72569,7 +72569,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.248217+00:00",
+"2023-07-28T17:27:05.248217Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-11-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -72581,7 +72581,7 @@
 "blob":
 "d61592b0-7cdc-4c8c-af8a-7b2cbd14a161",
 "created":
-"2023-07-21T17:49:51.881600+00:00",
+"2023-07-21T17:49:51.881600Z",
 "metadata":
 {
 "@context":
@@ -72837,7 +72837,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.410906+00:00",
+"2023-07-28T17:27:05.410906Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-12-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -72849,7 +72849,7 @@
 "blob":
 "0bf20ba6-3809-417e-a3af-a8b7156fe10d",
 "created":
-"2023-07-21T17:50:02.816198+00:00",
+"2023-07-21T17:50:02.816198Z",
 "metadata":
 {
 "@context":
@@ -73105,7 +73105,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.311272+00:00",
+"2023-07-28T17:27:05.311272Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-14-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -73117,7 +73117,7 @@
 "blob":
 "d24f1372-6fcb-4761-9031-019c3ea10437",
 "created":
-"2023-07-21T17:49:51.862206+00:00",
+"2023-07-21T17:49:51.862206Z",
 "metadata":
 {
 "@context":
@@ -73373,7 +73373,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.242110+00:00",
+"2023-07-28T17:27:05.242110Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-15-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -73385,7 +73385,7 @@
 "blob":
 "511e4372-a369-4458-8ace-2e829d0c37fb",
 "created":
-"2023-07-21T17:51:52.236491+00:00",
+"2023-07-21T17:51:52.236491Z",
 "metadata":
 {
 "@context":
@@ -73641,7 +73641,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.260888+00:00",
+"2023-07-28T17:27:05.260888Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-16-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -73653,7 +73653,7 @@
 "blob":
 "37b109e8-84dd-419d-a2d3-e376142abb04",
 "created":
-"2023-07-21T17:51:52.138251+00:00",
+"2023-07-21T17:51:52.138251Z",
 "metadata":
 {
 "@context":
@@ -73909,7 +73909,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.417680+00:00",
+"2023-07-28T17:27:05.417680Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-17-area-RSC-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -73921,7 +73921,7 @@
 "blob":
 "be3688d8-ca91-4a33-9b1e-c630281da16f",
 "created":
-"2023-07-21T17:51:46.106407+00:00",
+"2023-07-21T17:51:46.106407Z",
 "metadata":
 {
 "@context":
@@ -74177,7 +74177,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.318703+00:00",
+"2023-07-28T17:27:05.318703Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-18-area-MM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -74189,7 +74189,7 @@
 "blob":
 "0ac90ab6-5e76-4e1a-b9e1-89f5fa98e48d",
 "created":
-"2023-07-21T17:51:52.134962+00:00",
+"2023-07-21T17:51:52.134962Z",
 "metadata":
 {
 "@context":
@@ -74445,7 +74445,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.254977+00:00",
+"2023-07-28T17:27:05.254977Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-19-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -74457,7 +74457,7 @@
 "blob":
 "55ac394a-8eea-4b72-af9f-a8e77f1e907d",
 "created":
-"2023-07-21T17:51:45.301772+00:00",
+"2023-07-21T17:51:45.301772Z",
 "metadata":
 {
 "@context":
@@ -74713,7 +74713,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.390599+00:00",
+"2023-07-28T17:27:05.390599Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-20-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -74725,7 +74725,7 @@
 "blob":
 "a7f4e1d8-5e7e-4258-8e54-42bf6941e8ea",
 "created":
-"2023-07-21T17:53:26.027428+00:00",
+"2023-07-21T17:53:26.027428Z",
 "metadata":
 {
 "@context":
@@ -74981,7 +74981,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.340084+00:00",
+"2023-07-28T17:27:05.340084Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-21-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -74993,7 +74993,7 @@
 "blob":
 "f40652bd-8e51-4cb8-a1e3-4b7d260df7ff",
 "created":
-"2023-07-21T17:53:27.856221+00:00",
+"2023-07-21T17:53:27.856221Z",
 "metadata":
 {
 "@context":
@@ -75249,7 +75249,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.346088+00:00",
+"2023-07-28T17:27:05.346088Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-22-area-visA-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -75261,7 +75261,7 @@
 "blob":
 "a037a13a-463e-41bc-a6e8-dd5d38bdb4fe",
 "created":
-"2023-07-21T17:53:19.396770+00:00",
+"2023-07-21T17:53:19.396770Z",
 "metadata":
 {
 "@context":
@@ -75517,7 +75517,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.325907+00:00",
+"2023-07-28T17:27:05.325907Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-23-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -75529,7 +75529,7 @@
 "blob":
 "0a245e9c-7c60-420c-b31b-ea3b23a31c2c",
 "created":
-"2023-07-21T17:53:22.461720+00:00",
+"2023-07-21T17:53:22.461720Z",
 "metadata":
 {
 "@context":
@@ -75785,7 +75785,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.332895+00:00",
+"2023-07-28T17:27:05.332895Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-24-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -75797,7 +75797,7 @@
 "blob":
 "1171b52c-a4fc-477c-bb09-3f2de4da9827",
 "created":
-"2023-07-21T17:53:15.324613+00:00",
+"2023-07-21T17:53:15.324613Z",
 "metadata":
 {
 "@context":
@@ -76053,7 +76053,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.266822+00:00",
+"2023-07-28T17:27:05.266822Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-25-area-V1-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -76065,7 +76065,7 @@
 "blob":
 "f7702bf3-466c-49e4-af71-d2846b90a65c",
 "created":
-"2023-07-21T17:54:38.150774+00:00",
+"2023-07-21T17:54:38.150774Z",
 "metadata":
 {
 "@context":
@@ -76321,7 +76321,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.352229+00:00",
+"2023-07-28T17:27:05.352229Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-30-area-AM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -76333,7 +76333,7 @@
 "blob":
 "91aad4a6-5e22-488a-942e-1fea85652c0d",
 "created":
-"2023-07-21T17:54:58.502057+00:00",
+"2023-07-21T17:54:58.502057Z",
 "metadata":
 {
 "@context":
@@ -76589,7 +76589,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.272621+00:00",
+"2023-07-28T17:27:05.272621Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-08-31-area-PM-L23-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -76601,7 +76601,7 @@
 "blob":
 "8b6d5d98-5f8e-4650-b44a-fe6f13bb7bf5",
 "created":
-"2023-07-21T17:55:06.919529+00:00",
+"2023-07-21T17:55:06.919529Z",
 "metadata":
 {
 "@context":
@@ -76857,7 +76857,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.358224+00:00",
+"2023-07-28T17:27:05.358224Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-01-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -76869,7 +76869,7 @@
 "blob":
 "e0946687-29b6-49af-b4d1-6d4f2fb36c4c",
 "created":
-"2023-07-21T17:55:26.433350+00:00",
+"2023-07-21T17:55:26.433350Z",
 "metadata":
 {
 "@context":
@@ -77125,7 +77125,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.285575+00:00",
+"2023-07-28T17:27:05.285575Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-04-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -77137,7 +77137,7 @@
 "blob":
 "5c10bc74-08f4-4cfe-a54b-7a4a27a5e66d",
 "created":
-"2023-07-21T17:55:15.847223+00:00",
+"2023-07-21T17:55:15.847223Z",
 "metadata":
 {
 "@context":
@@ -77393,7 +77393,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.279466+00:00",
+"2023-07-28T17:27:05.279466Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-05-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -77405,7 +77405,7 @@
 "blob":
 "00300899-b8a7-4b79-ae68-81395e08284f",
 "created":
-"2023-07-21T17:56:19.077214+00:00",
+"2023-07-21T17:56:19.077214Z",
 "metadata":
 {
 "@context":
@@ -77661,7 +77661,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.427237+00:00",
+"2023-07-28T17:27:05.427237Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-06-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -77673,7 +77673,7 @@
 "blob":
 "4b172dc7-d9b9-48a3-b67f-b957e05d6ad0",
 "created":
-"2023-07-21T17:56:27.263437+00:00",
+"2023-07-21T17:56:27.263437Z",
 "metadata":
 {
 "@context":
@@ -77929,7 +77929,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.364094+00:00",
+"2023-07-28T17:27:05.364094Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-07-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -77941,7 +77941,7 @@
 "blob":
 "0cccb857-f1eb-44e1-8760-f2eb3ddd2f6b",
 "created":
-"2023-07-21T17:56:15.253676+00:00",
+"2023-07-21T17:56:15.253676Z",
 "metadata":
 {
 "@context":
@@ -78197,7 +78197,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.397686+00:00",
+"2023-07-28T17:27:05.397686Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-08-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -78209,7 +78209,7 @@
 "blob":
 "f38a3bb4-7f9a-4fe3-9f53-03ccda6994de",
 "created":
-"2023-07-21T17:56:40.538346+00:00",
+"2023-07-21T17:56:40.538346Z",
 "metadata":
 {
 "@context":
@@ -78465,7 +78465,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.376325+00:00",
+"2023-07-28T17:27:05.376325Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-10-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -78477,7 +78477,7 @@
 "blob":
 "21375111-20f5-4816-b665-15e0f9cad7b2",
 "created":
-"2023-07-21T17:56:34.861981+00:00",
+"2023-07-21T17:56:34.861981Z",
 "metadata":
 {
 "@context":
@@ -78733,7 +78733,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.370292+00:00",
+"2023-07-28T17:27:05.370292Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-11-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -78745,7 +78745,7 @@
 "blob":
 "988d8064-1cb1-43d1-9caa-19b4cacf0e29",
 "created":
-"2023-07-21T17:58:07.622969+00:00",
+"2023-07-21T17:58:07.622969Z",
 "metadata":
 {
 "@context":
@@ -79001,7 +79001,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.404299+00:00",
+"2023-07-28T17:27:05.404299Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-12-area-MM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -79013,7 +79013,7 @@
 "blob":
 "d177db96-43c3-40a8-b4cd-3e9939f42b08",
 "created":
-"2023-07-21T17:57:54.813671+00:00",
+"2023-07-21T17:57:54.813671Z",
 "metadata":
 {
 "@context":
@@ -79269,7 +79269,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.291378+00:00",
+"2023-07-28T17:27:05.291378Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-13-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -79281,7 +79281,7 @@
 "blob":
 "6a66baea-cd43-4718-982f-0f96db32f971",
 "created":
-"2023-07-21T17:58:45.945170+00:00",
+"2023-07-21T17:58:45.945170Z",
 "metadata":
 {
 "@context":
@@ -79537,7 +79537,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.480978+00:00",
+"2023-07-28T17:27:05.480978Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-14-area-AM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -79549,7 +79549,7 @@
 "blob":
 "a2470e2a-1ef7-44af-8b04-84cfd3fe43fa",
 "created":
-"2023-07-21T17:58:04.593991+00:00",
+"2023-07-21T17:58:04.593991Z",
 "metadata":
 {
 "@context":
@@ -79805,7 +79805,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.433658+00:00",
+"2023-07-28T17:27:05.433658Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-15-area-PM-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -79817,7 +79817,7 @@
 "blob":
 "ce6ce0c3-2bcf-4676-8702-40c29621dd79",
 "created":
-"2023-07-21T17:58:30.437001+00:00",
+"2023-07-21T17:58:30.437001Z",
 "metadata":
 {
 "@context":
@@ -80073,7 +80073,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.440043+00:00",
+"2023-07-28T17:27:05.440043Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-16-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -80085,7 +80085,7 @@
 "blob":
 "8888b147-fe39-453e-af14-c955483268aa",
 "created":
-"2023-07-21T17:58:45.576331+00:00",
+"2023-07-21T17:58:45.576331Z",
 "metadata":
 {
 "@context":
@@ -80341,7 +80341,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.467739+00:00",
+"2023-07-28T17:27:05.467739Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-18-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -80353,7 +80353,7 @@
 "blob":
 "16ddf177-7217-43f0-a72b-725024757f54",
 "created":
-"2023-07-21T17:59:41.870665+00:00",
+"2023-07-21T17:59:41.870665Z",
 "metadata":
 {
 "@context":
@@ -80609,7 +80609,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.446119+00:00",
+"2023-07-28T17:27:05.446119Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-19-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -80621,7 +80621,7 @@
 "blob":
 "66bf9d39-7c61-4c11-82f8-e0f580ed84ca",
 "created":
-"2023-07-21T17:59:41.010847+00:00",
+"2023-07-21T17:59:41.010847Z",
 "metadata":
 {
 "@context":
@@ -80877,7 +80877,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.473751+00:00",
+"2023-07-28T17:27:05.473751Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-20-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -80889,7 +80889,7 @@
 "blob":
 "5513cb08-23be-4343-a027-d5acc0fe85b5",
 "created":
-"2023-07-21T18:00:32.285435+00:00",
+"2023-07-21T18:00:32.285435Z",
 "metadata":
 {
 "@context":
@@ -81145,7 +81145,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.460932+00:00",
+"2023-07-28T17:27:05.460932Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-21-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -81157,7 +81157,7 @@
 "blob":
 "15c3268d-fb06-49e0-9afa-7227313bef4a",
 "created":
-"2023-07-21T18:00:35.428202+00:00",
+"2023-07-21T18:00:35.428202Z",
 "metadata":
 {
 "@context":
@@ -81413,7 +81413,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.487677+00:00",
+"2023-07-28T17:27:05.487677Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-22-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -81425,7 +81425,7 @@
 "blob":
 "6e173e8a-6b1b-4961-b58a-9315a62be5a0",
 "created":
-"2023-07-21T18:00:32.083120+00:00",
+"2023-07-21T18:00:32.083120Z",
 "metadata":
 {
 "@context":
@@ -81681,7 +81681,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.454005+00:00",
+"2023-07-28T17:27:05.454005Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-23-area-V1-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -81693,7 +81693,7 @@
 "blob":
 "0b6b57ee-6770-400d-bc83-9846a121ae4b",
 "created":
-"2023-07-21T18:01:10.521589+00:00",
+"2023-07-21T18:01:10.521589Z",
 "metadata":
 {
 "@context":
@@ -81949,7 +81949,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.495859+00:00",
+"2023-07-28T17:27:05.495859Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-24-area-RSC-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
@@ -81961,7 +81961,7 @@
 "blob":
 "6227169c-5e99-4a14-a58e-d540302c0669",
 "created":
-"2023-07-21T18:01:16.259276+00:00",
+"2023-07-21T18:01:16.259276Z",
 "metadata":
 {
 "@context":
@@ -82217,7 +82217,7 @@
 ]
 },
 "modified":
-"2023-07-28T17:27:05.502672+00:00",
+"2023-07-28T17:27:05.502672Z",
 "path":
 "sub-9/sub-9_ses-mouse-9-session-date-2017-09-25-area-visA-L5-multi-plane-imaging_behavior+ophys.nwb",
 "size":
