@@ -1,0 +1,75 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "is_vis": {
+        "Description": "whether the trial was a visually guided trial (True: visually guided, False: non-visually guided)"
+    },
+    "is_ruleA": {
+        "Description": "whether the trial happened during rule A (True: rule A (BL,WR), False: rule B(WL,BR))"
+    },
+    "is_switch": {
+        "Description": "whether a rule switch happened on the trial (True: switch, False: non-switch)"
+    },
+    "is_cueB": {
+        "Description": "whether the trial had a black cue (True: black, False: white)"
+    },
+    "is_choL": {
+        "Description": "whether the mouse made a left choice on the trial (True: left, False: right)"
+    },
+    "is_correct": {
+        "Description": "whether the trial was correct (True: correct, False: incorrect)"
+    },
+    "association_mat": {
+        "Description": "behavioral LSTM predicted conditional probability, order: P(R|W), P(L|W), P(R|B), P(L|B)"
+    },
+    "rule_belief": {
+        "Description": "the rule belief on the trial (pos: rule B, neg: rule A)"
+    },
+    "signed_bias": {
+        "Description": "the singed choice bias on the trial (pos: left bias, neg: right bias)"
+    },
+    "rule_following": {
+        "Description": "the rule-following on the trial (between -0.5 ~ 0.5)"
+    },
+    "bias_following": {
+        "Description": "the bias-following on the trial (between -0.5 ~ 0.5)"
+    },
+    "prob_actual_cho": {
+        "Description": "the probability of actual choice on the trial, i.e. P(actual choice|actual cue)"
+    },
+    "trial_onset_plane_frame_idx": {
+        "Description": "correspoding imaging frame index for this trial onset for each imaging plane"
+    },
+    "trial_offset_plane_frame_idx": {
+        "Description": "correspoding imaging frame index for this trial offset for each imaging plane"
+    },
+    "epoch_type": {
+        "Description": "type of epoch: maze, maze_stem, maze_arm, feedback_delay, feedback, iti, feedback_and_iti"
+    },
+    "trial_id": {
+        "Description": "trial number for this epoch"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "epochs": "The 'epochs' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "epochs": "Time-block"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    }
+}
