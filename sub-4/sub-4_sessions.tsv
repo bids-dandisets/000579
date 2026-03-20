@@ -1,32 +1,32 @@
-session_id
-ses-Mouse+4+widefield+retinotopy+and+window+vessel
-ses-mouse+4+session+date+2017+05+13+area+V1+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+15+area+visA+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+16+area+MM+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+18+area+AM+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+21+area+RSC+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+22+area+RSC+L23+single+plane+imaging
-ses-mouse+4+session+date+2017+05+23+area+MM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+24+area+V1+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+25+area+MM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+26+area+MM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+28+area+visA+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+29+area+V1+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+30+area+RSC+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+05+31+area+V1+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+01+area+RSC+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+02+area+MM+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+05+area+visA+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+06+area+V1+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+07+area+MM+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+08+area+RSC+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+09+area+RSC+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+10+area+AM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+13+area+visA+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+15+area+visA+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+19+area+AM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+20+area+V1+L5+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+21+area+V1+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+22+area+MM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+23+area+AM+L23+multi+plane+imaging
-ses-mouse+4+session+date+2017+06+24+area+PM+L23+multi+plane+imaging
+session_id	original_session_id
+ses-Mouse+4+widefield+retinotopy+and+window+vessel	ses-Mouse_4_widefield_retinotopy_and_window_vessel
+ses-mouse+4+session+date+2017+05+13+area+V1+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-13_area_V1_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+15+area+visA+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-15_area_visA_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+16+area+MM+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-16_area_MM_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+18+area+AM+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-18_area_AM_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+21+area+RSC+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-21_area_RSC_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+22+area+RSC+L23+single+plane+imaging	ses-mouse_4_session_date_2017-05-22_area_RSC_L23_single_plane_imaging
+ses-mouse+4+session+date+2017+05+23+area+MM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-23_area_MM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+24+area+V1+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-24_area_V1_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+25+area+MM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-25_area_MM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+26+area+MM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-26_area_MM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+28+area+visA+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-28_area_visA_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+29+area+V1+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-29_area_V1_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+30+area+RSC+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-05-30_area_RSC_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+05+31+area+V1+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-05-31_area_V1_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+01+area+RSC+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-01_area_RSC_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+02+area+MM+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-02_area_MM_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+05+area+visA+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-05_area_visA_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+06+area+V1+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-06_area_V1_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+07+area+MM+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-07_area_MM_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+08+area+RSC+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-08_area_RSC_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+09+area+RSC+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-09_area_RSC_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+10+area+AM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-10_area_AM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+13+area+visA+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-13_area_visA_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+15+area+visA+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-15_area_visA_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+19+area+AM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-19_area_AM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+20+area+V1+L5+multi+plane+imaging	ses-mouse_4_session_date_2017-06-20_area_V1_L5_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+21+area+V1+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-21_area_V1_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+22+area+MM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-22_area_MM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+23+area+AM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-23_area_AM_L23_multi_plane_imaging
+ses-mouse+4+session+date+2017+06+24+area+PM+L23+multi+plane+imaging	ses-mouse_4_session_date_2017-06-24_area_PM_L23_multi_plane_imaging
